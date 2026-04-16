@@ -1,0 +1,76 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{fullpage}
+\title{CPSC440 Project Proposal}
+\author{Rowan cake, 43367440}
+\date{March 2026}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Starting off with some problem motivation and context. \\ \\
+
+Predicting the next pitch in a professional baseball game is a sequential decision-making problem under uncertainty. A batter has roughly 400ms to identify and react to a pitch, making even a small probabilistic advantage highly valuable. As pitch velocities increase and movement profiles become more deceptive, anticipating pitch type in advance can significantly impact performance. \\ \\
+From a machine learning perspective, this task is naturally formulated as a multi-class classification problem over structured sequential data. Unlike standard time series, baseball pitch sequences are influenced by dynamic game state variables such as count, base runners, outs, and pitcher fatigue. This creates both short-term dependencies (within an at-bat) and long-term dependencies (pitcher tendencies across games or seasons), requiring models that can capture multiple temporal scales. \\ \\
+Beyond gameplay, there is increasing external demand for accurate predictive models in sports analytics and betting markets. Recent developments, such as partnerships between Major League Baseball and prediction market platforms(MLB recently signed a deal with Polymarket\footnote{\url{https://frontofficesports.com/mlb-makes-multiyear-prediction-markets-deal-with-polymarket/}}.), suggest that real-time probabilistic forecasting of in-game events is becoming commercially relevant as well.
+
+\section{What problem you are focusing on?}
+I will focus on predicting the next pitch type (e.g., fastball, slider, changeup) given the current game state and pitch history of regular season Major League Baseball games(and potentially location of the pitch within the strike zone but I will start small with my ambitions first).
+Formally, given a sequence of prior pitches and contextual features, the goal is to model
+\[
+P(y_t \mid x_1, x_2, \dots, x_t),
+\]
+where \(y_t\) is the pitch type at time \(t\), and \(x_t\) represents the observed features at time \(t\). This project follows the application bake-off framework with elements of performance improvement, where multiple machine learning models are evaluated on this structured sequential prediction task.
+\clearpage
+\section{What do you plan to do?}
+I will structure the project to proceed in two main stages:
+
+\begin{enumerate}
+    \item \textbf{Baseline Models} \\
+    Implement and evaluate the standard classification approaches that have been shown to work in the literature on the new dataset. 
+    \begin{itemize}
+        \item Logistic regression
+        \item SVM's
+        \item KNN
+        \item LSTM's
+        \item LDA
+        \item Hidden Markov Models
+        \item 1D convolutional neural network (not before seen in literature from my research)
+    \end{itemize}
+    These models will serve as performance baselines and I will strive to achieve the performance that the papers that introduced them did.
+
+    \item \textbf{Ensemble Models} \\
+    Produce ensemble mixes of the above models to boost performance:
+    \begin{itemize}
+        \item Voting
+        \item Bagging
+        \item Stacking
+    \end{itemize}
+
+
+\end{enumerate}
+
+All data will be sourced from Major League Baseball’s official "statcast" platform from the 2025 season, and I will have to build the data set from scratch using their API. Evaluation will be performed using classification accuracy on a held out test set.
+
+
+
+
+\section{What will the “contribution” be?}
+
+Overall I plan to make a model that performs better then anything in the academic literature up to this point(which would be $76.70 \%$ accuracy from the Yu et al. paper in 2022). Now with that being said I'm not sure if it will be feasible to evaluate my model on their data but I aim to be in that range of accuracy within my custom data set.  
+
+
+\section{Resources}
+Not doing formal citation but here is some of the papers that I'm coming up with the ideas of what models to use and how well my models should perform.
+ \begin{itemize}
+\item https://ieeexplore.ieee.org/abstract/document/9859411
+\item https://journals.sagepub.com/doi/full/10.3233/JSA-200559
+\item https://www.scitepress.org/Papers/2014/47639/47639.pdf
+\item https://link.springer.com/chapter/10.1007/978-3-319-25660-3\_11
+\item https://journals.sagepub.com/doi/full/10.3233/JSA-170171
+    \end{itemize}
+
+
+\end{document}
