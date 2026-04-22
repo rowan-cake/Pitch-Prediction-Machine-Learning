@@ -1,0 +1,268 @@
+{
+  "categorical_columns": [
+    "home_team",
+    "away_team",
+    "stand",
+    "p_throws",
+    "inning_topbot",
+    "if_fielding_alignment",
+    "of_fielding_alignment"
+  ],
+  "categorical_vocabularies": {
+    "away_team": [
+      "ATH",
+      "ATL",
+      "AZ",
+      "BAL",
+      "BOS",
+      "CIN",
+      "COL",
+      "CWS",
+      "DET",
+      "HOU",
+      "KC",
+      "LAD",
+      "MIA",
+      "MIL",
+      "NYM",
+      "NYY",
+      "PIT",
+      "SD",
+      "SEA",
+      "SF",
+      "STL",
+      "TEX",
+      "TOR",
+      "WSH"
+    ],
+    "home_team": [
+      "ATH",
+      "ATL",
+      "AZ",
+      "BAL",
+      "BOS",
+      "CHC",
+      "CIN",
+      "COL",
+      "CWS",
+      "DET",
+      "HOU",
+      "LAA",
+      "LAD",
+      "MIA",
+      "MIL",
+      "NYM",
+      "NYY",
+      "PHI",
+      "PIT",
+      "SD",
+      "SF",
+      "STL",
+      "TB",
+      "TEX",
+      "TOR",
+      "WSH"
+    ],
+    "if_fielding_alignment": [
+      "Infield shade",
+      "Infield shift",
+      "Standard",
+      "Strategic"
+    ],
+    "inning_topbot": [
+      "Bot",
+      "Top"
+    ],
+    "of_fielding_alignment": [
+      "Standard",
+      "Strategic"
+    ],
+    "p_throws": [
+      "R"
+    ],
+    "stand": [
+      "L",
+      "R"
+    ]
+  },
+  "context_size": 78,
+  "dropped_labels": {
+    "PO": 1
+  },
+  "feature_columns": [
+    "game_year",
+    "home_team",
+    "away_team",
+    "stand",
+    "p_throws",
+    "inning",
+    "inning_topbot",
+    "outs_when_up",
+    "balls",
+    "strikes",
+    "at_bat_number",
+    "pitch_number",
+    "runners_on_1b",
+    "runners_on_2b",
+    "runners_on_3b",
+    "bat_score_diff",
+    "n_thruorder_pitcher",
+    "n_priorpa_thisgame_player_at_bat",
+    "pitcher_days_since_prev_game",
+    "batter_days_since_prev_game",
+    "age_pit",
+    "age_bat",
+    "if_fielding_alignment",
+    "of_fielding_alignment"
+  ],
+  "history_feature_size": 109,
+  "label_names": [
+    "CH",
+    "FC",
+    "FF",
+    "SI",
+    "ST"
+  ],
+  "label_to_index": {
+    "CH": 0,
+    "FC": 1,
+    "FF": 2,
+    "SI": 3,
+    "ST": 4
+  },
+  "numeric_columns": [
+    "game_year",
+    "inning",
+    "outs_when_up",
+    "balls",
+    "strikes",
+    "at_bat_number",
+    "pitch_number",
+    "runners_on_1b",
+    "runners_on_2b",
+    "runners_on_3b",
+    "bat_score_diff",
+    "n_thruorder_pitcher",
+    "n_priorpa_thisgame_player_at_bat",
+    "pitcher_days_since_prev_game",
+    "batter_days_since_prev_game",
+    "age_pit",
+    "age_bat"
+  ],
+  "numeric_stats": {
+    "age_bat": {
+      "mean": 28.961269340691832,
+      "std": 3.8519944604882026
+    },
+    "age_pit": {
+      "mean": 27.168621267369666,
+      "std": 0.9391923612702904
+    },
+    "at_bat_number": {
+      "mean": 26.17680102493348,
+      "std": 15.763461771105142
+    },
+    "balls": {
+      "mean": 0.7978712920074899,
+      "std": 0.9323439298345307
+    },
+    "bat_score_diff": {
+      "mean": -0.3854341184586577,
+      "std": 2.0674438689472274
+    },
+    "batter_days_since_prev_game": {
+      "mean": 1.4747215925889425,
+      "std": 1.4851276802743811
+    },
+    "game_year": {
+      "mean": 2023.1686212673696,
+      "std": 0.9391923612702905
+    },
+    "inning": {
+      "mean": 3.6575342465753424,
+      "std": 1.9672325969630005
+    },
+    "n_priorpa_thisgame_player_at_bat": {
+      "mean": 0.9081501921750271,
+      "std": 0.8320236336810134
+    },
+    "n_thruorder_pitcher": {
+      "mean": 1.915245885483394,
+      "std": 0.8337225407825678
+    },
+    "outs_when_up": {
+      "mean": 0.9464866462993988,
+      "std": 0.81560747680343
+    },
+    "pitch_number": {
+      "mean": 2.8663644426924213,
+      "std": 1.735285040023168
+    },
+    "pitcher_days_since_prev_game": {
+      "mean": 5.5925889425445945,
+      "std": 0.7639354601373618
+    },
+    "runners_on_1b": {
+      "mean": 0.2633290627771755,
+      "std": 0.44043940272649296
+    },
+    "runners_on_2b": {
+      "mean": 0.1723662166157485,
+      "std": 0.37769842994818154
+    },
+    "runners_on_3b": {
+      "mean": 0.07470188232975264,
+      "std": 0.26290970143025233
+    },
+    "strikes": {
+      "mean": 0.9259879767418941,
+      "std": 0.8249471446814043
+    }
+  },
+  "pitcher_name": "Webb, Logan",
+  "prior_location_vocab": [
+    "above_center",
+    "above_inside",
+    "above_left",
+    "above_outside",
+    "above_right",
+    "below_center",
+    "below_inside",
+    "below_left",
+    "below_outside",
+    "below_right",
+    "high_center",
+    "high_inside",
+    "high_left",
+    "high_outside",
+    "high_right",
+    "low_center",
+    "low_inside",
+    "low_left",
+    "low_outside",
+    "low_right",
+    "middle_center",
+    "middle_inside",
+    "middle_left",
+    "middle_outside",
+    "middle_right"
+  ],
+  "prior_pitch_type_vocab": [
+    "CH",
+    "FC",
+    "FF",
+    "PO",
+    "SI",
+    "ST"
+  ],
+  "retained_labels": [
+    "CH",
+    "FC",
+    "FF",
+    "SI",
+    "ST"
+  ],
+  "sequence_length": 5,
+  "target_column": "target_pitch_type",
+  "task_name": "pitch_type"
+}

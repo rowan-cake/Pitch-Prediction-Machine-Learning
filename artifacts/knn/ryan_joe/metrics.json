@@ -1,0 +1,44 @@
+{
+  "pitcher_name": "Ryan, Joe",
+  "split": {
+    "overlap_games": 0,
+    "test_games": 22,
+    "train_fraction": 0.8,
+    "train_games": 88
+  },
+  "tasks": {
+    "location": {
+      "dropped_labels": {},
+      "retained_labels": [],
+      "row_counts": {
+        "test": 0,
+        "total": 0,
+        "train": 0
+      },
+      "skip_reason": "not_requested_pitch_type_focus",
+      "status": "skipped",
+      "task_name": "location"
+    },
+    "pitch_type": {
+      "dropped_labels": {},
+      "retained_labels": [
+        "CH",
+        "CU",
+        "FF",
+        "FS",
+        "KC",
+        "SI",
+        "SL",
+        "ST"
+      ],
+      "row_counts": {
+        "test": 1987,
+        "total": 9974,
+        "train": 7987
+      },
+      "skip_reason": "test_contains_unseen_class_after_split",
+      "status": "skipped",
+      "task_name": "pitch_type"
+    }
+  }
+}

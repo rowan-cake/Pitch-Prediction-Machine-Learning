@@ -1,0 +1,329 @@
+{
+  "categorical_columns": [
+    "home_team",
+    "away_team",
+    "stand",
+    "p_throws",
+    "inning_topbot",
+    "if_fielding_alignment",
+    "of_fielding_alignment"
+  ],
+  "categorical_vocabularies": {
+    "away_team": [
+      "ATH",
+      "ATL",
+      "AZ",
+      "BAL",
+      "BOS",
+      "CHC",
+      "CLE",
+      "COL",
+      "CWS",
+      "DET",
+      "HOU",
+      "KC",
+      "LAA",
+      "LAD",
+      "MIA",
+      "MIL",
+      "MIN",
+      "NYM",
+      "NYY",
+      "PHI",
+      "SD",
+      "SF",
+      "STL",
+      "TB",
+      "TEX",
+      "TOR",
+      "WSH"
+    ],
+    "home_team": [
+      "ATH",
+      "ATL",
+      "AZ",
+      "BAL",
+      "BOS",
+      "CHC",
+      "CLE",
+      "COL",
+      "CWS",
+      "DET",
+      "HOU",
+      "KC",
+      "LAA",
+      "LAD",
+      "MIA",
+      "MIL",
+      "MIN",
+      "NYM",
+      "PIT",
+      "SD",
+      "SF",
+      "STL",
+      "TB",
+      "TEX",
+      "WSH"
+    ],
+    "if_fielding_alignment": [
+      "Infield shade",
+      "Infield shift",
+      "Standard",
+      "Strategic"
+    ],
+    "inning_topbot": [
+      "Bot",
+      "Top"
+    ],
+    "of_fielding_alignment": [
+      "Standard",
+      "Strategic"
+    ],
+    "p_throws": [
+      "R"
+    ],
+    "stand": [
+      "L",
+      "R"
+    ]
+  },
+  "context_size": 80,
+  "dropped_labels": {},
+  "feature_columns": [
+    "game_year",
+    "home_team",
+    "away_team",
+    "stand",
+    "p_throws",
+    "inning",
+    "inning_topbot",
+    "outs_when_up",
+    "balls",
+    "strikes",
+    "at_bat_number",
+    "pitch_number",
+    "runners_on_1b",
+    "runners_on_2b",
+    "runners_on_3b",
+    "bat_score_diff",
+    "n_thruorder_pitcher",
+    "n_priorpa_thisgame_player_at_bat",
+    "pitcher_days_since_prev_game",
+    "batter_days_since_prev_game",
+    "age_pit",
+    "age_bat",
+    "if_fielding_alignment",
+    "of_fielding_alignment"
+  ],
+  "history_feature_size": 112,
+  "label_names": [
+    "above_center",
+    "above_inside",
+    "above_left",
+    "above_outside",
+    "above_right",
+    "below_center",
+    "below_inside",
+    "below_left",
+    "below_outside",
+    "below_right",
+    "high_center",
+    "high_inside",
+    "high_left",
+    "high_outside",
+    "high_right",
+    "low_center",
+    "low_inside",
+    "low_left",
+    "low_outside",
+    "low_right",
+    "middle_center",
+    "middle_inside",
+    "middle_left",
+    "middle_outside",
+    "middle_right"
+  ],
+  "label_to_index": {
+    "above_center": 0,
+    "above_inside": 1,
+    "above_left": 2,
+    "above_outside": 3,
+    "above_right": 4,
+    "below_center": 5,
+    "below_inside": 6,
+    "below_left": 7,
+    "below_outside": 8,
+    "below_right": 9,
+    "high_center": 10,
+    "high_inside": 11,
+    "high_left": 12,
+    "high_outside": 13,
+    "high_right": 14,
+    "low_center": 15,
+    "low_inside": 16,
+    "low_left": 17,
+    "low_outside": 18,
+    "low_right": 19,
+    "middle_center": 20,
+    "middle_inside": 21,
+    "middle_left": 22,
+    "middle_outside": 23,
+    "middle_right": 24
+  },
+  "numeric_columns": [
+    "game_year",
+    "inning",
+    "outs_when_up",
+    "balls",
+    "strikes",
+    "at_bat_number",
+    "pitch_number",
+    "runners_on_1b",
+    "runners_on_2b",
+    "runners_on_3b",
+    "bat_score_diff",
+    "n_thruorder_pitcher",
+    "n_priorpa_thisgame_player_at_bat",
+    "pitcher_days_since_prev_game",
+    "batter_days_since_prev_game",
+    "age_pit",
+    "age_bat"
+  ],
+  "numeric_stats": {
+    "age_bat": {
+      "mean": 28.396558544303797,
+      "std": 3.654612248656246
+    },
+    "age_pit": {
+      "mean": 28.11392405063291,
+      "std": 0.9084235443909661
+    },
+    "at_bat_number": {
+      "mean": 24.808840981012658,
+      "std": 14.444128942907328
+    },
+    "balls": {
+      "mean": 0.932060917721519,
+      "std": 0.9816515772278072
+    },
+    "bat_score_diff": {
+      "mean": -0.5418314873417721,
+      "std": 2.3413739069692383
+    },
+    "batter_days_since_prev_game": {
+      "mean": 1.4784414556962024,
+      "std": 2.987468887829592
+    },
+    "game_year": {
+      "mean": 2023.113924050633,
+      "std": 0.9084235443909661
+    },
+    "inning": {
+      "mean": 3.4492681962025316,
+      "std": 1.7784746751526728
+    },
+    "n_priorpa_thisgame_player_at_bat": {
+      "mean": 0.8509691455696202,
+      "std": 0.7728846758406263
+    },
+    "n_thruorder_pitcher": {
+      "mean": 1.8566060126582278,
+      "std": 0.7746527599973054
+    },
+    "outs_when_up": {
+      "mean": 0.9491693037974683,
+      "std": 0.8151959303630802
+    },
+    "pitch_number": {
+      "mean": 3.0058346518987342,
+      "std": 1.753405810943342
+    },
+    "pitcher_days_since_prev_game": {
+      "mean": 5.661590189873418,
+      "std": 0.7147547621599618
+    },
+    "runners_on_1b": {
+      "mean": 0.2991495253164557,
+      "std": 0.4578854516354444
+    },
+    "runners_on_2b": {
+      "mean": 0.16208465189873417,
+      "std": 0.36852844872221246
+    },
+    "runners_on_3b": {
+      "mean": 0.07654272151898735,
+      "std": 0.2658645017700823
+    },
+    "strikes": {
+      "mean": 0.9420490506329114,
+      "std": 0.8334412291242628
+    }
+  },
+  "pitcher_name": "Cease, Dylan",
+  "prior_location_vocab": [
+    "above_center",
+    "above_inside",
+    "above_left",
+    "above_outside",
+    "above_right",
+    "below_center",
+    "below_inside",
+    "below_left",
+    "below_outside",
+    "below_right",
+    "high_center",
+    "high_inside",
+    "high_left",
+    "high_outside",
+    "high_right",
+    "low_center",
+    "low_inside",
+    "low_left",
+    "low_outside",
+    "low_right",
+    "middle_center",
+    "middle_inside",
+    "middle_left",
+    "middle_outside",
+    "middle_right"
+  ],
+  "prior_pitch_type_vocab": [
+    "CH",
+    "FC",
+    "FF",
+    "KC",
+    "SI",
+    "SL",
+    "ST"
+  ],
+  "retained_labels": [
+    "above_center",
+    "above_inside",
+    "above_left",
+    "above_outside",
+    "above_right",
+    "below_center",
+    "below_inside",
+    "below_left",
+    "below_outside",
+    "below_right",
+    "high_center",
+    "high_inside",
+    "high_left",
+    "high_outside",
+    "high_right",
+    "low_center",
+    "low_inside",
+    "low_left",
+    "low_outside",
+    "low_right",
+    "middle_center",
+    "middle_inside",
+    "middle_left",
+    "middle_outside",
+    "middle_right"
+  ],
+  "sequence_length": 5,
+  "target_column": "target_location_bucket",
+  "task_name": "location"
+}

@@ -305,10 +305,9 @@ def train_task_model(
     y_train, label_names, label_to_index = encode_labels(train_df[target_column])
     y_test = test_df[target_column].astype(str).map(label_to_index).to_numpy(dtype=int)
 
-    class_weights = build_class_weights(y_train, len(label_names), np, torch)
     model = nn.Linear(preprocessor["feature_size"], len(label_names))
     optimizer = torch.optim.SGD(model.parameters(), lr=args.learning_rate)
-    loss_fn = nn.CrossEntropyLoss(weight=class_weights)
+    loss_fn = nn.CrossEntropyLoss()
 
     x_train_tensor = torch.tensor(x_train, dtype=torch.float32)
     y_train_tensor = torch.tensor(y_train, dtype=torch.long)
@@ -411,7 +410,7 @@ def train_task_model(
             "epochs": args.epochs,
             "batch_size": args.batch_size,
             "learning_rate": args.learning_rate,
-            "class_weights": {label: float(class_weights[idx].item()) for idx, label in enumerate(label_names)},
+            "class_weights": "disabled",
             "final_epoch_loss": epoch_losses[-1],
             "train_loss": train_loss,
             "test_loss": test_loss,
