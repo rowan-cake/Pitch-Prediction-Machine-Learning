@@ -20,6 +20,9 @@ import lstm_model
 import xgboost_model
 import knn_model
 import hmm_model
+import lda_model
+import gda_model
+import cnn1d_model
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -114,6 +117,59 @@ def build_parser() -> argparse.ArgumentParser:
     hmm_parser.add_argument("--smoothing", type=float, default=hmm_model.DEFAULT_SMOOTHING)
     hmm_parser.add_argument("--max-pitchers", type=int, default=None)
 
+    lda_parser = subparsers.add_parser(
+        "train-lda",
+        help="Train per-pitcher linear discriminant analysis baselines.",
+    )
+    lda_parser.add_argument("--data-dir", type=Path, default=DATA_DIR)
+    lda_parser.add_argument("--output-dir", type=Path, default=OUTPUT_DIR)
+    lda_parser.add_argument("--artifacts-dir", type=Path, default=lda_model.ARTIFACTS_DIR)
+    lda_parser.add_argument("--seed", type=int, default=lda_model.DEFAULT_SEED)
+    lda_parser.add_argument("--min-class-count", type=int, default=lda_model.MIN_CLASS_COUNT)
+    lda_parser.add_argument("--sequence-length", type=int, default=lda_model.DEFAULT_SEQUENCE_LENGTH)
+    lda_parser.add_argument("--solver", choices=["svd", "lsqr", "eigen"], default=lda_model.DEFAULT_SOLVER)
+    lda_parser.add_argument("--shrinkage", default=lda_model.DEFAULT_SHRINKAGE)
+    lda_parser.add_argument("--max-pitchers", type=int, default=None)
+
+    gda_parser = subparsers.add_parser(
+        "train-gda",
+        help="Train per-pitcher Gaussian discriminant analysis baselines.",
+    )
+    gda_parser.add_argument("--data-dir", type=Path, default=DATA_DIR)
+    gda_parser.add_argument("--output-dir", type=Path, default=OUTPUT_DIR)
+    gda_parser.add_argument("--artifacts-dir", type=Path, default=gda_model.ARTIFACTS_DIR)
+    gda_parser.add_argument("--seed", type=int, default=gda_model.DEFAULT_SEED)
+    gda_parser.add_argument("--min-class-count", type=int, default=gda_model.MIN_CLASS_COUNT)
+    gda_parser.add_argument("--sequence-length", type=int, default=gda_model.DEFAULT_SEQUENCE_LENGTH)
+    gda_parser.add_argument("--reg-param", type=float, default=gda_model.DEFAULT_REG_PARAM)
+    gda_parser.add_argument("--max-components", type=int, default=gda_model.DEFAULT_MAX_COMPONENTS)
+    gda_parser.add_argument("--max-pitchers", type=int, default=None)
+
+    cnn_parser = subparsers.add_parser(
+        "train-cnn1d",
+        help="Train per-pitcher 1D CNN sequence baselines.",
+    )
+    cnn_parser.add_argument("--data-dir", type=Path, default=DATA_DIR)
+    cnn_parser.add_argument("--output-dir", type=Path, default=OUTPUT_DIR)
+    cnn_parser.add_argument("--artifacts-dir", type=Path, default=cnn1d_model.ARTIFACTS_DIR)
+    cnn_parser.add_argument("--seed", type=int, default=cnn1d_model.DEFAULT_SEED)
+    cnn_parser.add_argument("--min-class-count", type=int, default=cnn1d_model.MIN_CLASS_COUNT)
+    cnn_parser.add_argument("--epochs", type=int, default=cnn1d_model.DEFAULT_EPOCHS)
+    cnn_parser.add_argument("--batch-size", type=int, default=cnn1d_model.DEFAULT_BATCH_SIZE)
+    cnn_parser.add_argument("--learning-rate", type=float, default=cnn1d_model.DEFAULT_LR)
+    cnn_parser.add_argument("--optimizer", choices=["sgd", "adam"], default=cnn1d_model.DEFAULT_OPTIMIZER)
+    cnn_parser.add_argument("--channels", type=int, default=cnn1d_model.DEFAULT_CHANNELS)
+    cnn_parser.add_argument("--num-blocks", type=int, default=cnn1d_model.DEFAULT_NUM_BLOCKS)
+    cnn_parser.add_argument("--kernel-size", type=int, default=cnn1d_model.DEFAULT_KERNEL_SIZE)
+    cnn_parser.add_argument("--dropout", type=float, default=cnn1d_model.DEFAULT_DROPOUT)
+    cnn_parser.add_argument("--static-hidden-size", type=int, default=cnn1d_model.DEFAULT_STATIC_HIDDEN_SIZE)
+    cnn_parser.add_argument("--sequence-length", type=int, default=cnn1d_model.DEFAULT_SEQUENCE_LENGTH)
+    cnn_parser.add_argument("--grad-clip", type=float, default=cnn1d_model.DEFAULT_GRAD_CLIP)
+    cnn_parser.add_argument("--max-pitchers", type=int, default=None)
+    cnn_parser.add_argument("--include-location", action="store_true")
+    cnn_parser.add_argument("--progress", action=argparse.BooleanOptionalAction, default=True)
+    cnn_parser.add_argument("--progress-every", type=int, default=10)
+
     return parser
 
 
@@ -146,6 +202,18 @@ def main() -> None:
 
     if args.command == "train-hmm":
         hmm_model.run_hmm(args)
+        return
+
+    if args.command == "train-lda":
+        lda_model.run_lda(args)
+        return
+
+    if args.command == "train-gda":
+        gda_model.run_gda(args)
+        return
+
+    if args.command == "train-cnn1d":
+        cnn1d_model.run_cnn1d(args)
         return
 
     raise SystemExit(f"Unknown command: {args.command}")

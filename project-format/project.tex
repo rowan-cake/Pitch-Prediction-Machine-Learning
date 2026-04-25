@@ -1,0 +1,209 @@
+\documentclass{article}
+
+\usepackage{project_440_550}
+% Please submit it as is here, with line numbers.
+% If you'd like a "less draft"-looking version for your website or something after:
+%     \usepackage[final]{project_440_550}   % keeps the footer but kills line numbers,
+%     \usepackage[preprint]{project_440_550}   % removes both
+
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+
+\usepackage[USenglish]{babel}  % there's a "canadian" option, but it's an alias for USenglish,
+                               % and for some reason it makes csqoutes behave differently...
+\usepackage{csquotes}       % smarter handling of quotes (used by biblatex)
+
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+
+% I recommend the biblatex package.
+% If you hate it for some reason, though, you can use natbib instead:
+% comment out this block and uncomment the next one.
+
+\usepackage[style=authoryear,maxbibnames=30,natbib]{biblatex}
+\addbibresource{refs.bib}
+\renewbibmacro{in:}{}  % drops a silly "In:" from biblatex format
+\DeclareDelimFormat{nameyeardelim}{\addspace} % remove a comma i dislike, doesn't matter
+\DeclareNameAlias{sortname}{given-family}  % avoid kinda-weird bib printing order
+
+%\usepackage[round]{natbib}
+%\newcommand{\printbibliography}{\bibliographystyle{plainnat}\bibliography{refs}}
+
+
+\usepackage[capitalize,noabbrev]{cleveref}
+
+
+\title{A Cool Course Project}
+
+
+% The \author macro works with any number of authors. There are two commands
+% used to separate the names and addresses of multiple authors: \And and \AND.
+%
+% Using \And between authors leaves it to LaTeX to determine where to break the
+% lines. Using \AND forces a line break at that point. So, if LaTeX puts 3 of 4
+% authors names on the first line, and the last on the second line, try using
+% \AND instead of \And before the third author name.
+
+\author{%
+  Yu Besie\\
+  \texttt{syu@student.ubc.ca}
+  \And
+  Chad G.\ Petey\\
+  \texttt{chadg@cs.ubc.ca}
+}
+
+\begin{document}
+\maketitle
+
+
+\begin{abstract}
+    Our project is really cool.
+\end{abstract}
+
+
+\section{Introduction}
+
+This is why you should care about our project.
+
+Main paper content can be \textbf{up to six pages},
+followed by an unlimited number of pages containing references and appendices
+(which the course staff, like NeurIPS reviewers, won't \emph{necessarily} read).
+
+\section{What goes in the report}
+Part of your grade is based on the contribution of your project:
+did you do something meaningful in your project, that adds something new to the world?
+Again, we don't expect you to necessarily make a high-impact totally novel result,
+and it's fine if you end up with a negative result,
+but you should have something here.
+You should make sure that the contribution of your project is clear in the introduction of your paper,
+and that the rest of the writeup clearly demonstrates that you actually made this contribution.
+
+A large portion of your grade is based on writing a clear and structured paper that addresses the relevant questions that would be asked of a generic scientific/engineering publication.
+Your writeup should look more or less like a scientific paper as published at, say, NeurIPS,
+or a NeurIPS workshop.
+To achieve that, most papers should use something like the following traditional outline:
+\begin{enumerate}
+\item Introduction: Clearly state the problem being addressed. \textbf{Explain why it is an important problem to work on}. At a high level, briefly summarize what the limitations of existing approaches that your work will be addressing, and what the contribution of your project is.
+\item Related Work: Identify at least three publications on related topics; usually these will be papers that have worked on slightly different problems or papers that have proposed an approach to your problem that is not fully satisfactory. For each paper, briefly say either how the problem addressed is related and/or different (if they address a different problem) or why it doesn't solve the problem you are working on (if it addresses the same problem). Sometimes it makes more sense to put this later in the paper, but usually it's here.
+\item Description and justification of what you did, divided up (possibly in multiple sections and/or sub-sections). There's a lot of flexibility here, and it will depend on the type of project you are doing. For example, if you're applying standard machine learning methods to a new dataset or doing a Kaggle competition, you could have one (sub-)section describing the dataset and why you think machine learning could help, and one (sub-)section stating the methods you will try and why you think these are appropriate methods (you don't necessarily have to go into detail describing the methods). If you're extending an existing technique, you could have one sub-section describing the existing technique, and one sub-section for each of the extensions you explored. If your project has a theoretical component, you might have one sub-section discussing the assumptions, one sub-section describing the results, and one sub-section describing implications.
+\item Experiments and/or analysis (if you have an experimental component): Describe each experiment that you did. Say what each experiment is trying to test. Ideally, each experiment should only try to test one thing and you should control for as many other factors as possible. Subsequently, summarize the result of your experiment, in both the text and in a nice visual form such as a figure; \textbf{a table with a huge list of numbers is often not the best way to summarize information}, but sometimes a well-designed table (especially with some colour-coding) is still your best bet.
+\item Discussion and future work: State the main conclusions you obtained from this course project. List at least one strength and one weakness of your contribution. Briefly describe what you might do with more time.
+\end{enumerate}
+
+An example outline for a perspective paper might be something like
+\begin{enumerate}
+\item Introduction: Clearly state the problem being addressed. Explain why it is an important problem. At a high level, briefly summarize the history of the works that will be discussed in the project.
+\item Review: Go through the different works in some logical order, such as chronologically or by going from simple to complex models. Don't just list the methods, but say how they relate to each other (going through the strengths/weaknesses of the different methods, both in comparison to each other and compared to an ideal method that solves the problem).
+\item Discussion: Discuss the trends that have occurred over time. Speculate about where the next steps in the trend could lead. Point out issues that are not properly addressed by existing methods. State some interesting directions to explore, or opportunities to use existing tools in new applications.
+\end{enumerate}
+
+You definitely don't have to stick to these exact structures; many of my papers don't.
+But if you're not using this format (\dots or if you are), you should make sure what you're doing makes sense,
+and answers the important questions about your project.
+
+\paragraph{Writing style}
+Mark has some advice for writing here, most of which I agree with:
+\url{https://www.cs.ubc.ca/~schmidtm/Courses/Notes/writing.pdf}.
+(He has a bunch of minor grammatical errors in that document, though. :/)
+
+You're not going to lose points for making some minor grammatical mistakes or anything like that
+-- the published literature is full of them!
+You will lose points if there are grammatical errors to the level of making your work hard to understand.
+More importantly, you will also lose points if your writing doesn't convey what you did
+in a clear, easy-to-understand way.
+Note that this involves a lot more than just having a good grasp of written English.
+
+
+\section{How to format stuff}
+\subsection{Citations}
+
+Something a lot of people don't know at first:
+use \verb+\citet{ref}+ (or \verb+\textcite+)
+if the citation plays a grammatical role in the sentence,
+e.g.\ ``\citet{transformers} demonstrated that \dots.''
+Use \verb+\citep{ref}+ (or \verb+\parencite+)
+if it doesn't, e.g.\ ``Machine learning is fun \citep{ml-is-fun}.''
+
+
+\subsection{Figures}
+
+See \cref{fig:sample} for how to include a figure.
+
+\begin{figure}
+  \centering
+  % The next line would normally be \includegraphics instead.
+  \fbox{\rule[-.5cm]{0cm}{4cm} hi =) \rule[-.5cm]{4cm}{0cm}}
+  \caption{Sample figure caption.}
+  \label{fig:sample}
+\end{figure}
+
+
+\subsection{Tables}
+
+Table captions go \emph{above} the table,
+because that's the usual style, idk.
+There's an example in \cref{tab:sample}.
+Avoid having too many lines, and in particular don't just put them between every table cell; put them where they help readability.
+
+\begin{table}
+  \caption{Sample table title}
+  \label{tab:sample}
+  \centering
+  \begin{tabular}{lll}
+    \toprule
+    \multicolumn{2}{c}{Part}                   \\
+    \cmidrule(r){1-2}
+    Name     & Description     & Size ($\mu$m) \\
+    \midrule
+    Dendrite & Input terminal  & $\sim$100     \\
+    Axon     & Output terminal & $\sim$10      \\
+    Soma     & Cell body       & up to $10^6$  \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\subsection{Math}
+Using display math in bare TeX commands, like \texttt{\$\$f(x)\$\$}, will mess up the line numbers. (Inline math like \texttt{\$f(x)\$} is fine.)
+Instead use \texttt{\textbackslash [ f(x) \textbackslash ]} or \texttt{\textbackslash begin\{equation*\} f(x) \textbackslash end\{equation*\}},
+like this:
+\[ \sum_i a_i = 2 .\]
+(You shouldn't use \texttt{\$\$} anyway; see \href{https://tex.stackexchange.com/questions/503/why-is-preferable-to}{this discussion} and \href{https://tex.stackexchange.com/questions/40492/what-are-the-differences-between-align-equation-and-displaymath}{this one} for more.)
+
+
+\subsection{Supplementary Material}
+You can include extra information in appendices, like \cref{app:info}.
+You don't have to if you don't want to.
+
+Please \emph{don't} include code in your writeups, unless you did something particularly cool and want to \emph{briefly} describe the way something works as a contribution (this should be relatively unusual).
+Please instead link to it somewhere, preferably a GitHub repo or similar,
+especially if the code is a significant contribution of your project.
+
+
+\section{Discussion}
+In the end, you should give us an A++++.
+
+
+\begin{ack}
+    You can acknowledge useful discussion with other people who aren't coauthors here (or leave the section out).
+    Typically you'd also put funding here, acknowledgements for computing clusters, etc.
+\end{ack}
+
+
+\printbibliography
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\appendix
+
+\section{Supplementary material} \label{app:info}
+
+This stuff doesn't count towards your page limit.
+
+\end{document}
