@@ -1,0 +1,44 @@
+{
+  "pitcher_name": "Peralta, Freddy",
+  "split": {
+    "overlap_games": 0,
+    "test_games": 23,
+    "train_fraction": 0.8,
+    "train_games": 90
+  },
+  "tasks": {
+    "location": {
+      "dropped_labels": {},
+      "retained_labels": [],
+      "row_counts": {
+        "test": 0,
+        "total": 10344,
+        "train": 0
+      },
+      "skip_reason": "not_requested_pitch_type_focus",
+      "status": "skipped",
+      "task_name": "location"
+    },
+    "pitch_type": {
+      "dropped_labels": {
+        "SI": 2
+      },
+      "retained_labels": [
+        "CH",
+        "CS",
+        "CU",
+        "FF",
+        "SL",
+        "ST"
+      ],
+      "row_counts": {
+        "test": 2154,
+        "total": 10342,
+        "train": 8188
+      },
+      "skip_reason": "test_contains_unseen_class_after_split",
+      "status": "skipped",
+      "task_name": "pitch_type"
+    }
+  }
+}

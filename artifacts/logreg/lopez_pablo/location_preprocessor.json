@@ -1,0 +1,294 @@
+{
+  "categorical_columns": [
+    "home_team",
+    "away_team",
+    "stand",
+    "p_throws",
+    "inning_topbot",
+    "if_fielding_alignment",
+    "of_fielding_alignment"
+  ],
+  "categorical_vocabularies": {
+    "away_team": [
+      "ATH",
+      "ATL",
+      "AZ",
+      "BAL",
+      "BOS",
+      "CHC",
+      "CLE",
+      "COL",
+      "CWS",
+      "HOU",
+      "KC",
+      "LAA",
+      "LAD",
+      "MIA",
+      "MIL",
+      "MIN",
+      "NYM",
+      "NYY",
+      "PHI",
+      "PIT",
+      "SD",
+      "SEA",
+      "SF",
+      "STL",
+      "TB",
+      "TEX",
+      "TOR",
+      "WSH"
+    ],
+    "home_team": [
+      "ATH",
+      "ATL",
+      "BAL",
+      "BOS",
+      "CHC",
+      "CIN",
+      "CLE",
+      "COL",
+      "CWS",
+      "DET",
+      "HOU",
+      "KC",
+      "LAA",
+      "LAD",
+      "MIA",
+      "MIL",
+      "MIN",
+      "NYM",
+      "NYY",
+      "PHI",
+      "SD",
+      "SEA",
+      "SF",
+      "STL",
+      "TB",
+      "TEX",
+      "WSH"
+    ],
+    "if_fielding_alignment": [
+      "Infield shade",
+      "Infield shift",
+      "Standard",
+      "Strategic"
+    ],
+    "inning_topbot": [
+      "Bot",
+      "Top"
+    ],
+    "of_fielding_alignment": [
+      "Standard",
+      "Strategic"
+    ],
+    "p_throws": [
+      "R"
+    ],
+    "stand": [
+      "L",
+      "R"
+    ]
+  },
+  "dropped_labels": {},
+  "feature_columns": [
+    "game_year",
+    "home_team",
+    "away_team",
+    "stand",
+    "p_throws",
+    "inning",
+    "inning_topbot",
+    "outs_when_up",
+    "balls",
+    "strikes",
+    "at_bat_number",
+    "pitch_number",
+    "runners_on_1b",
+    "runners_on_2b",
+    "runners_on_3b",
+    "bat_score_diff",
+    "n_thruorder_pitcher",
+    "n_priorpa_thisgame_player_at_bat",
+    "pitcher_days_since_prev_game",
+    "batter_days_since_prev_game",
+    "age_pit",
+    "age_bat",
+    "if_fielding_alignment",
+    "of_fielding_alignment"
+  ],
+  "feature_size": 83,
+  "label_names": [
+    "above_center",
+    "above_inside",
+    "above_left",
+    "above_outside",
+    "above_right",
+    "below_center",
+    "below_inside",
+    "below_left",
+    "below_outside",
+    "below_right",
+    "high_center",
+    "high_inside",
+    "high_left",
+    "high_outside",
+    "high_right",
+    "low_center",
+    "low_inside",
+    "low_left",
+    "low_outside",
+    "low_right",
+    "middle_center",
+    "middle_inside",
+    "middle_left",
+    "middle_outside",
+    "middle_right"
+  ],
+  "label_to_index": {
+    "above_center": 0,
+    "above_inside": 1,
+    "above_left": 2,
+    "above_outside": 3,
+    "above_right": 4,
+    "below_center": 5,
+    "below_inside": 6,
+    "below_left": 7,
+    "below_outside": 8,
+    "below_right": 9,
+    "high_center": 10,
+    "high_inside": 11,
+    "high_left": 12,
+    "high_outside": 13,
+    "high_right": 14,
+    "low_center": 15,
+    "low_inside": 16,
+    "low_left": 17,
+    "low_outside": 18,
+    "low_right": 19,
+    "middle_center": 20,
+    "middle_inside": 21,
+    "middle_left": 22,
+    "middle_outside": 23,
+    "middle_right": 24
+  },
+  "numeric_columns": [
+    "game_year",
+    "inning",
+    "outs_when_up",
+    "balls",
+    "strikes",
+    "at_bat_number",
+    "pitch_number",
+    "runners_on_1b",
+    "runners_on_2b",
+    "runners_on_3b",
+    "bat_score_diff",
+    "n_thruorder_pitcher",
+    "n_priorpa_thisgame_player_at_bat",
+    "pitcher_days_since_prev_game",
+    "batter_days_since_prev_game",
+    "age_pit",
+    "age_bat"
+  ],
+  "numeric_stats": {
+    "age_bat": {
+      "mean": 28.466158948532122,
+      "std": 3.728040182231702
+    },
+    "age_pit": {
+      "mean": 27.260778774106374,
+      "std": 1.009192892311316
+    },
+    "at_bat_number": {
+      "mean": 24.89595872742906,
+      "std": 15.121986379447822
+    },
+    "balls": {
+      "mean": 0.8161159562707284,
+      "std": 0.9283193851219419
+    },
+    "bat_score_diff": {
+      "mean": -0.43852106620808257,
+      "std": 2.4330989487161427
+    },
+    "batter_days_since_prev_game": {
+      "mean": 1.6575359292470213,
+      "std": 2.792527145409336
+    },
+    "game_year": {
+      "mean": 2023.2607787741065,
+      "std": 1.0091928923113163
+    },
+    "inning": {
+      "mean": 3.4450313229333007,
+      "std": 1.8264140201707046
+    },
+    "n_priorpa_thisgame_player_at_bat": {
+      "mean": 0.8452278589853827,
+      "std": 0.7859617003478331
+    },
+    "n_thruorder_pitcher": {
+      "mean": 1.8550546615894854,
+      "std": 0.7914110628607146
+    },
+    "outs_when_up": {
+      "mean": 0.9673258813413586,
+      "std": 0.823833400699853
+    },
+    "pitch_number": {
+      "mean": 2.9000122835032554,
+      "std": 1.714000457326506
+    },
+    "pitcher_days_since_prev_game": {
+      "mean": 6.776194570691561,
+      "std": 8.638875594663988
+    },
+    "runners_on_1b": {
+      "mean": 0.26655202063628547,
+      "std": 0.44215612732495146
+    },
+    "runners_on_2b": {
+      "mean": 0.15428080088441223,
+      "std": 0.36121771186207996
+    },
+    "runners_on_3b": {
+      "mean": 0.09212627441346272,
+      "std": 0.289204121644485
+    },
+    "strikes": {
+      "mean": 0.9484092863284609,
+      "std": 0.8333966900725892
+    }
+  },
+  "pitcher_name": "L\u00f3pez, Pablo",
+  "retained_labels": [
+    "above_center",
+    "above_inside",
+    "above_left",
+    "above_outside",
+    "above_right",
+    "below_center",
+    "below_inside",
+    "below_left",
+    "below_outside",
+    "below_right",
+    "high_center",
+    "high_inside",
+    "high_left",
+    "high_outside",
+    "high_right",
+    "low_center",
+    "low_inside",
+    "low_left",
+    "low_outside",
+    "low_right",
+    "middle_center",
+    "middle_inside",
+    "middle_left",
+    "middle_outside",
+    "middle_right"
+  ],
+  "target_column": "target_location_bucket",
+  "task_name": "location"
+}

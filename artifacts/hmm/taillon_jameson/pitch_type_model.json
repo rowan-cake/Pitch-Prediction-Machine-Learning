@@ -1,0 +1,4157 @@
+{
+  "context_counts": {
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 7,
+      "CU": 46,
+      "FC": 35,
+      "FF": 233,
+      "SI": 10,
+      "SL": 13
+    },
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 19,
+      "CU": 90,
+      "FC": 70,
+      "FF": 115,
+      "SI": 9,
+      "SL": 15,
+      "ST": 2
+    },
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 17,
+      "CU": 32,
+      "FC": 59,
+      "FF": 76,
+      "SI": 6,
+      "SL": 10
+    },
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=0|times=4": {
+      "FF": 1
+    },
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "CU": 14,
+      "FC": 10,
+      "FF": 16,
+      "SL": 2
+    },
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 2,
+      "CU": 17,
+      "FC": 26,
+      "FF": 15
+    },
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 3,
+      "CU": 8,
+      "FC": 8,
+      "FF": 9,
+      "SL": 1
+    },
+    "balls=0|strikes=0|stand=L|p_throws=R|r2=1|times=4": {
+      "FF": 1
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 16,
+      "FC": 75,
+      "FF": 172,
+      "SI": 56,
+      "SL": 32,
+      "ST": 21
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 28,
+      "FC": 91,
+      "FF": 71,
+      "SI": 76,
+      "SL": 28,
+      "ST": 42
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 18,
+      "FC": 47,
+      "FF": 38,
+      "SI": 48,
+      "SL": 14,
+      "ST": 22
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=0|times=4": {
+      "SL": 1
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "CU": 4,
+      "FC": 10,
+      "FF": 11,
+      "SI": 10,
+      "SL": 4,
+      "ST": 7
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 6,
+      "FC": 15,
+      "FF": 6,
+      "SI": 22,
+      "SL": 7,
+      "ST": 13
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 4,
+      "FC": 13,
+      "FF": 5,
+      "SI": 11,
+      "SL": 4,
+      "ST": 6
+    },
+    "balls=0|strikes=0|stand=R|p_throws=R|r2=1|times=4": {
+      "SL": 1
+    },
+    "balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 28,
+      "CU": 41,
+      "FC": 33,
+      "FF": 72,
+      "SI": 6,
+      "SL": 3,
+      "ST": 2
+    },
+    "balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 29,
+      "CU": 35,
+      "FC": 34,
+      "FF": 55,
+      "SI": 4,
+      "SL": 3
+    },
+    "balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 26,
+      "CU": 21,
+      "FC": 19,
+      "FF": 35,
+      "SI": 3
+    },
+    "balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=4": {
+      "SL": 1
+    },
+    "balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 2,
+      "CU": 15,
+      "FF": 12
+    },
+    "balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 8,
+      "CU": 10,
+      "FC": 3,
+      "FF": 8,
+      "SI": 1,
+      "SL": 1
+    },
+    "balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 4,
+      "FC": 3,
+      "FF": 3,
+      "SI": 1
+    },
+    "balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 4,
+      "FC": 55,
+      "FF": 34,
+      "SI": 48,
+      "SL": 24,
+      "ST": 67
+    },
+    "balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 16,
+      "FC": 29,
+      "FF": 26,
+      "SI": 27,
+      "SL": 24,
+      "ST": 67
+    },
+    "balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "CU": 6,
+      "FC": 22,
+      "FF": 17,
+      "SI": 11,
+      "SL": 9,
+      "ST": 32
+    },
+    "balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 2,
+      "FF": 7,
+      "SI": 6,
+      "SL": 3,
+      "ST": 6
+    },
+    "balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 2,
+      "FC": 4,
+      "FF": 2,
+      "SI": 9,
+      "SL": 4,
+      "ST": 13
+    },
+    "balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 6,
+      "FF": 1,
+      "SI": 1,
+      "SL": 5,
+      "ST": 8
+    },
+    "balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 5,
+      "CU": 30,
+      "FC": 3,
+      "FF": 31,
+      "SI": 1,
+      "SL": 3,
+      "ST": 4
+    },
+    "balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 31,
+      "FC": 6,
+      "FF": 40,
+      "SL": 1,
+      "ST": 2
+    },
+    "balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "CU": 19,
+      "FF": 26,
+      "SI": 2,
+      "ST": 3
+    },
+    "balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 3,
+      "FF": 5
+    },
+    "balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 2,
+      "CU": 10,
+      "FC": 1,
+      "FF": 6,
+      "SL": 2
+    },
+    "balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 1,
+      "FF": 2
+    },
+    "balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 11,
+      "FC": 1,
+      "FF": 32,
+      "SL": 6,
+      "ST": 42
+    },
+    "balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 15,
+      "FC": 5,
+      "FF": 28,
+      "SI": 2,
+      "SL": 13,
+      "ST": 31
+    },
+    "balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 5,
+      "FC": 2,
+      "FF": 22,
+      "SI": 1,
+      "SL": 2,
+      "ST": 23
+    },
+    "balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 3,
+      "SL": 2,
+      "ST": 6
+    },
+    "balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 6,
+      "SI": 1,
+      "SL": 3,
+      "ST": 6
+    },
+    "balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 3,
+      "FF": 5,
+      "ST": 4
+    },
+    "balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 10,
+      "CU": 15,
+      "FC": 36,
+      "FF": 66,
+      "SI": 2,
+      "SL": 1
+    },
+    "balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 24,
+      "CU": 14,
+      "FC": 28,
+      "FF": 46,
+      "SI": 3,
+      "SL": 5
+    },
+    "balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 16,
+      "CU": 13,
+      "FC": 25,
+      "FF": 20,
+      "SL": 1
+    },
+    "balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 2,
+      "FC": 3,
+      "FF": 9
+    },
+    "balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 4,
+      "CU": 8,
+      "FC": 6,
+      "FF": 5,
+      "SL": 1,
+      "ST": 1
+    },
+    "balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 4,
+      "CU": 3,
+      "FC": 2,
+      "FF": 4,
+      "SI": 1
+    },
+    "balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=4": {
+      "SL": 1
+    },
+    "balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 2,
+      "FC": 25,
+      "FF": 33,
+      "SI": 23,
+      "SL": 15,
+      "ST": 3
+    },
+    "balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 32,
+      "FF": 19,
+      "SI": 26,
+      "SL": 15,
+      "ST": 6
+    },
+    "balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 4,
+      "FC": 19,
+      "FF": 4,
+      "SI": 18,
+      "SL": 7,
+      "ST": 7
+    },
+    "balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 2,
+      "FF": 3,
+      "SI": 8,
+      "SL": 1,
+      "ST": 3
+    },
+    "balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 8,
+      "FF": 5,
+      "SI": 7,
+      "SL": 3,
+      "ST": 3
+    },
+    "balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 4,
+      "SI": 6,
+      "SL": 1
+    },
+    "balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 22,
+      "CU": 36,
+      "FC": 39,
+      "FF": 56,
+      "SI": 1,
+      "SL": 5
+    },
+    "balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 33,
+      "CU": 23,
+      "FC": 26,
+      "FF": 44,
+      "ST": 1
+    },
+    "balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 19,
+      "CU": 17,
+      "FC": 21,
+      "FF": 17,
+      "SI": 3,
+      "SL": 1
+    },
+    "balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 6,
+      "CU": 6,
+      "FC": 3,
+      "FF": 5,
+      "SI": 2
+    },
+    "balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 3,
+      "CU": 3,
+      "FC": 6,
+      "FF": 11,
+      "SI": 2
+    },
+    "balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 2,
+      "FC": 2,
+      "FF": 6
+    },
+    "balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=4": {
+      "FC": 1
+    },
+    "balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 6,
+      "FC": 40,
+      "FF": 28,
+      "SI": 38,
+      "SL": 21,
+      "ST": 26
+    },
+    "balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 4,
+      "FC": 31,
+      "FF": 20,
+      "SI": 36,
+      "SL": 9,
+      "ST": 23
+    },
+    "balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 3,
+      "FC": 13,
+      "FF": 13,
+      "SI": 11,
+      "SL": 8,
+      "ST": 14
+    },
+    "balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 6,
+      "FF": 1,
+      "SI": 4,
+      "SL": 2,
+      "ST": 5
+    },
+    "balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 7,
+      "SI": 7,
+      "SL": 3,
+      "ST": 6
+    },
+    "balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "FF": 4,
+      "SI": 6,
+      "SL": 2,
+      "ST": 2
+    },
+    "balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 9,
+      "CU": 62,
+      "FC": 9,
+      "FF": 66,
+      "SI": 2,
+      "SL": 3,
+      "ST": 3
+    },
+    "balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 5,
+      "CU": 40,
+      "FC": 13,
+      "FF": 39,
+      "SI": 2,
+      "SL": 3,
+      "ST": 2
+    },
+    "balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 5,
+      "CU": 28,
+      "FC": 11,
+      "FF": 34,
+      "SL": 1,
+      "ST": 1
+    },
+    "balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "CU": 9,
+      "FC": 1,
+      "FF": 6,
+      "SL": 1
+    },
+    "balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 10,
+      "FC": 2,
+      "FF": 13,
+      "SI": 1,
+      "SL": 1,
+      "ST": 2
+    },
+    "balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 7,
+      "FC": 1,
+      "FF": 3
+    },
+    "balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=4": {
+      "CU": 1
+    },
+    "balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 14,
+      "FC": 3,
+      "FF": 47,
+      "SI": 8,
+      "SL": 23,
+      "ST": 58
+    },
+    "balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 17,
+      "FC": 4,
+      "FF": 30,
+      "SI": 7,
+      "SL": 8,
+      "ST": 43
+    },
+    "balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 13,
+      "FC": 5,
+      "FF": 14,
+      "SI": 2,
+      "SL": 12,
+      "ST": 14
+    },
+    "balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 5,
+      "SI": 1,
+      "SL": 1,
+      "ST": 11
+    },
+    "balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 4,
+      "FF": 9,
+      "SL": 3,
+      "ST": 7
+    },
+    "balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 3,
+      "SL": 3,
+      "ST": 6
+    },
+    "balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 13,
+      "FF": 27
+    },
+    "balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 4,
+      "FC": 9,
+      "FF": 19,
+      "SI": 4
+    },
+    "balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 3,
+      "FC": 7,
+      "FF": 15
+    },
+    "balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 2,
+      "FF": 4,
+      "SI": 1,
+      "ST": 1
+    },
+    "balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 5,
+      "FF": 1
+    },
+    "balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 2
+    },
+    "balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 5,
+      "FF": 8,
+      "SI": 5,
+      "SL": 3
+    },
+    "balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 9,
+      "FF": 4,
+      "SI": 8,
+      "SL": 1
+    },
+    "balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 8,
+      "FF": 2,
+      "SI": 7,
+      "SL": 1
+    },
+    "balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 3,
+      "SI": 3
+    },
+    "balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 4,
+      "SI": 5,
+      "SL": 1
+    },
+    "balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 2
+    },
+    "balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 10,
+      "CU": 17,
+      "FC": 13,
+      "FF": 42,
+      "SI": 3
+    },
+    "balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 11,
+      "CU": 14,
+      "FC": 16,
+      "FF": 18,
+      "SI": 2,
+      "SL": 3
+    },
+    "balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 7,
+      "CU": 2,
+      "FC": 9,
+      "FF": 19
+    },
+    "balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 4,
+      "FF": 6,
+      "SL": 1
+    },
+    "balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 2,
+      "CU": 2,
+      "FC": 4,
+      "FF": 6
+    },
+    "balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 2,
+      "CU": 3,
+      "FC": 1,
+      "FF": 2
+    },
+    "balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 17,
+      "FF": 7,
+      "SI": 22,
+      "SL": 11,
+      "ST": 5
+    },
+    "balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 18,
+      "FF": 6,
+      "SI": 20,
+      "SL": 6,
+      "ST": 4
+    },
+    "balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 4,
+      "FF": 6,
+      "SI": 10,
+      "SL": 3,
+      "ST": 3
+    },
+    "balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 2,
+      "FF": 1,
+      "SI": 2,
+      "SL": 5,
+      "ST": 2
+    },
+    "balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 2,
+      "SI": 7,
+      "SL": 1
+    },
+    "balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 1,
+      "SI": 1,
+      "ST": 2
+    },
+    "balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 13,
+      "CU": 39,
+      "FC": 21,
+      "FF": 57,
+      "SI": 1,
+      "SL": 1,
+      "ST": 2
+    },
+    "balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 7,
+      "CU": 28,
+      "FC": 14,
+      "FF": 32,
+      "SI": 9,
+      "SL": 4,
+      "ST": 4
+    },
+    "balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 3,
+      "CU": 15,
+      "FC": 11,
+      "FF": 14,
+      "SI": 2,
+      "SL": 2
+    },
+    "balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "CU": 9,
+      "FC": 2,
+      "FF": 5,
+      "SI": 1
+    },
+    "balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 10,
+      "FC": 6,
+      "FF": 8,
+      "SL": 1
+    },
+    "balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 4,
+      "CU": 7,
+      "FC": 1,
+      "FF": 3
+    },
+    "balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 7,
+      "FC": 18,
+      "FF": 35,
+      "SI": 17,
+      "SL": 19,
+      "ST": 23
+    },
+    "balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "CU": 12,
+      "FC": 11,
+      "FF": 25,
+      "SI": 18,
+      "SL": 12,
+      "ST": 19
+    },
+    "balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 5,
+      "FC": 1,
+      "FF": 13,
+      "SI": 5,
+      "SL": 9,
+      "ST": 14
+    },
+    "balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "CU": 2,
+      "FC": 4,
+      "FF": 4,
+      "SI": 3,
+      "SL": 1,
+      "ST": 5
+    },
+    "balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 2,
+      "FC": 3,
+      "FF": 6,
+      "SI": 6,
+      "SL": 3,
+      "ST": 4
+    },
+    "balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FF": 3,
+      "SI": 1,
+      "SL": 3,
+      "ST": 3
+    },
+    "balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 11
+    },
+    "balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 11
+    },
+    "balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "FC": 2,
+      "FF": 9
+    },
+    "balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 3
+    },
+    "balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 2
+    },
+    "balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 3
+    },
+    "balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FF": 1,
+      "SI": 1
+    },
+    "balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 3
+    },
+    "balls=3|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "balls=3|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 10,
+      "FF": 22,
+      "SI": 1
+    },
+    "balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "FC": 9,
+      "FF": 20,
+      "SI": 2
+    },
+    "balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 3,
+      "FC": 3,
+      "FF": 15,
+      "SI": 2
+    },
+    "balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "FC": 3,
+      "FF": 1
+    },
+    "balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "FC": 1,
+      "FF": 3
+    },
+    "balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "FF": 2
+    },
+    "balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 3,
+      "FF": 6,
+      "SI": 7,
+      "SL": 1
+    },
+    "balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 7,
+      "FF": 6,
+      "SI": 4
+    },
+    "balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 4,
+      "FF": 3,
+      "SI": 2
+    },
+    "balls=3|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "balls=3|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 3,
+      "SI": 2
+    },
+    "balls=3|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "SI": 1
+    },
+    "balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 7,
+      "CU": 4,
+      "FC": 19,
+      "FF": 42,
+      "SI": 3,
+      "ST": 1
+    },
+    "balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 3,
+      "CU": 9,
+      "FC": 16,
+      "FF": 37,
+      "SI": 2,
+      "SL": 1
+    },
+    "balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 4,
+      "CU": 4,
+      "FC": 7,
+      "FF": 15,
+      "SI": 1
+    },
+    "balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 6,
+      "SL": 1
+    },
+    "balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 2,
+      "CU": 3,
+      "FC": 4,
+      "FF": 17
+    },
+    "balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 2
+    },
+    "balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 8,
+      "FF": 18,
+      "SI": 10,
+      "SL": 2,
+      "ST": 1
+    },
+    "balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 19,
+      "FF": 12,
+      "SI": 14,
+      "SL": 5
+    },
+    "balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 2,
+      "FC": 4,
+      "FF": 7,
+      "SI": 3,
+      "SL": 1
+    },
+    "balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 2,
+      "SI": 4,
+      "SL": 2
+    },
+    "balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 3,
+      "FF": 6,
+      "SI": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "FF": 5,
+      "SI": 2,
+      "SL": 1
+    }
+  },
+  "dropped_labels": {
+    "PO": 1
+  },
+  "global_probs": {
+    "CH": 0.05331799002685079,
+    "CU": 0.14767932489451477,
+    "FC": 0.19230277458125558,
+    "FF": 0.3372970208413246,
+    "SI": 0.10574095384221967,
+    "SL": 0.06508119166347015,
+    "ST": 0.0985807441503644
+  },
+  "label_names": [
+    "CH",
+    "CU",
+    "FC",
+    "FF",
+    "SI",
+    "SL",
+    "ST"
+  ],
+  "label_to_index": {
+    "CH": 0,
+    "CU": 1,
+    "FC": 2,
+    "FF": 3,
+    "SI": 4,
+    "SL": 5,
+    "ST": 6
+  },
+  "model": "supervised_markov_hmm_style",
+  "pitcher_name": "Taillon, Jameson",
+  "retained_labels": [
+    "CH",
+    "CU",
+    "FC",
+    "FF",
+    "SI",
+    "SL",
+    "ST"
+  ],
+  "smoothing": 1.0,
+  "start_probs": {
+    "CH": 0.02516940948693127,
+    "CU": 0.13746369796708616,
+    "FC": 0.22313649564375604,
+    "FF": 0.37318489835430785,
+    "SI": 0.12100677637947725,
+    "SL": 0.06485963213939981,
+    "ST": 0.05517909002904162
+  },
+  "target_column": "target_pitch_type",
+  "transition_context_counts": {
+    "CH|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "FC": 1,
+      "FF": 2
+    },
+    "CH|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 3,
+      "CU": 1,
+      "FC": 4,
+      "FF": 1
+    },
+    "CH|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 1,
+      "FF": 2
+    },
+    "CH|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1
+    },
+    "CH|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FC": 1
+    },
+    "CH|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "SL": 1
+    },
+    "CH|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 3,
+      "FF": 4
+    },
+    "CH|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 6
+    },
+    "CH|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 3,
+      "FF": 5,
+      "SI": 1
+    },
+    "CH|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 4,
+      "SL": 1
+    },
+    "CH|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 1
+    },
+    "CH|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "FF": 3,
+      "SL": 1
+    },
+    "CH|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 4,
+      "FC": 2,
+      "FF": 2
+    },
+    "CH|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "CH|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1
+    },
+    "CH|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 1
+    },
+    "CH|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 4,
+      "FC": 5,
+      "FF": 5,
+      "SL": 1
+    },
+    "CH|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 7,
+      "CU": 4,
+      "FC": 6,
+      "FF": 9
+    },
+    "CH|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 6,
+      "CU": 1,
+      "FC": 6,
+      "FF": 7,
+      "SI": 2,
+      "SL": 1
+    },
+    "CH|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 1
+    },
+    "CH|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "FC": 1,
+      "FF": 1
+    },
+    "CH|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "CH|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1,
+      "SL": 1
+    },
+    "CH|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 2,
+      "FF": 10,
+      "ST": 1
+    },
+    "CH|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 10
+    },
+    "CH|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "FF": 4,
+      "ST": 1
+    },
+    "CH|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "CU": 2
+    },
+    "CH|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 1
+    },
+    "CH|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FF": 1
+    },
+    "CH|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "SL": 1
+    },
+    "CH|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 6
+    },
+    "CH|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 6
+    },
+    "CH|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "FF": 3
+    },
+    "CH|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "CH|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 4
+    },
+    "CH|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 2,
+      "FF": 2,
+      "SI": 1
+    },
+    "CH|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 3
+    },
+    "CH|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "CH|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1
+    },
+    "CH|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "FC": 2,
+      "FF": 4
+    },
+    "CH|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 2
+    },
+    "CH|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 1,
+      "SL": 1
+    },
+    "CH|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "SL": 1
+    },
+    "CH|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1
+    },
+    "CH|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 1
+    },
+    "CH|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 1
+    },
+    "CH|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 1
+    },
+    "CH|balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "CH|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 3
+    },
+    "CH|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 5
+    },
+    "CH|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "FC": 1
+    },
+    "CH|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1
+    },
+    "CH|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "CH|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "FC": 1,
+      "FF": 6
+    },
+    "CH|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "FC": 1,
+      "FF": 2
+    },
+    "CH|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "CH|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 1
+    },
+    "CH|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FF": 1
+    },
+    "CH|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1
+    },
+    "CU|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 6,
+      "FC": 4,
+      "FF": 9
+    },
+    "CU|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 3,
+      "CU": 10,
+      "FC": 8,
+      "FF": 17,
+      "SI": 1,
+      "SL": 2
+    },
+    "CU|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 5,
+      "CU": 3,
+      "FC": 4,
+      "FF": 4,
+      "SI": 1
+    },
+    "CU|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 3,
+      "FF": 6
+    },
+    "CU|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 2,
+      "CU": 1,
+      "FF": 3
+    },
+    "CU|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 2,
+      "FC": 1,
+      "SI": 1
+    },
+    "CU|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 2,
+      "SI": 4,
+      "SL": 2,
+      "ST": 2
+    },
+    "CU|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 2,
+      "SI": 3,
+      "SL": 4,
+      "ST": 1
+    },
+    "CU|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 2,
+      "FF": 1,
+      "SI": 1,
+      "SL": 3,
+      "ST": 2
+    },
+    "CU|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 1
+    },
+    "CU|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "SI": 2
+    },
+    "CU|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SL": 2
+    },
+    "CU|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 8,
+      "FF": 11,
+      "SI": 1
+    },
+    "CU|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 9,
+      "FF": 9
+    },
+    "CU|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 4,
+      "FF": 5,
+      "ST": 1
+    },
+    "CU|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 1,
+      "FF": 4
+    },
+    "CU|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 1,
+      "FF": 2,
+      "SL": 1
+    },
+    "CU|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "CU|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 1,
+      "ST": 1
+    },
+    "CU|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 3,
+      "FF": 3,
+      "SL": 4
+    },
+    "CU|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 3,
+      "FF": 2
+    },
+    "CU|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 3,
+      "FC": 6,
+      "FF": 9,
+      "SI": 1
+    },
+    "CU|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 6,
+      "CU": 5,
+      "FC": 7,
+      "FF": 19,
+      "SI": 2
+    },
+    "CU|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 3,
+      "FF": 4
+    },
+    "CU|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 2
+    },
+    "CU|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 6,
+      "FC": 3,
+      "FF": 1
+    },
+    "CU|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "FC": 2
+    },
+    "CU|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 2
+    },
+    "CU|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 3,
+      "FF": 3,
+      "SI": 3,
+      "SL": 1
+    },
+    "CU|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 1,
+      "SI": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "CU|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 2
+    },
+    "CU|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 2
+    },
+    "CU|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 4,
+      "FC": 2,
+      "FF": 16
+    },
+    "CU|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 3,
+      "CU": 2,
+      "FC": 1,
+      "FF": 13
+    },
+    "CU|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 3,
+      "CU": 3,
+      "FC": 4,
+      "FF": 3
+    },
+    "CU|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 2,
+      "CU": 2,
+      "FC": 2,
+      "FF": 1,
+      "SI": 2
+    },
+    "CU|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "FC": 3,
+      "FF": 4,
+      "SI": 1
+    },
+    "CU|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 1,
+      "FF": 3
+    },
+    "CU|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 2,
+      "SI": 1
+    },
+    "CU|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 3,
+      "FF": 1,
+      "SI": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "CU|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1
+    },
+    "CU|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "SI": 1
+    },
+    "CU|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "CU|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 3,
+      "CU": 22,
+      "FC": 1,
+      "FF": 24
+    },
+    "CU|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 9,
+      "FC": 5,
+      "FF": 11,
+      "ST": 1
+    },
+    "CU|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "CU": 7,
+      "FC": 4,
+      "FF": 14,
+      "SL": 1
+    },
+    "CU|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 2,
+      "SL": 1
+    },
+    "CU|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 7,
+      "SI": 1,
+      "SL": 1
+    },
+    "CU|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 2,
+      "FF": 1
+    },
+    "CU|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 5,
+      "SI": 1,
+      "SL": 1
+    },
+    "CU|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 4,
+      "SI": 2,
+      "ST": 2
+    },
+    "CU|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 2,
+      "FF": 2,
+      "ST": 1
+    },
+    "CU|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FF": 2,
+      "SL": 1
+    },
+    "CU|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1
+    },
+    "CU|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 1
+    },
+    "CU|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "FC": 1,
+      "FF": 4,
+      "SI": 1
+    },
+    "CU|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "FF": 2
+    },
+    "CU|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "CU|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 3
+    },
+    "CU|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "CU|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1,
+      "SI": 1
+    },
+    "CU|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 10,
+      "SI": 1
+    },
+    "CU|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "CU": 2,
+      "FC": 3,
+      "FF": 2
+    },
+    "CU|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 4
+    },
+    "CU|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 2
+    },
+    "CU|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 3
+    },
+    "CU|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 2
+    },
+    "CU|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 2
+    },
+    "CU|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "SI": 2
+    },
+    "CU|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 10,
+      "FC": 5,
+      "FF": 20,
+      "SL": 1
+    },
+    "CU|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "CU": 4,
+      "FC": 4,
+      "FF": 13,
+      "SI": 3,
+      "SL": 2
+    },
+    "CU|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 5,
+      "FF": 4,
+      "SI": 1
+    },
+    "CU|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 1,
+      "FF": 4,
+      "SI": 1
+    },
+    "CU|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 3,
+      "FC": 4,
+      "FF": 4
+    },
+    "CU|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 5,
+      "FF": 3
+    },
+    "CU|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 3,
+      "SI": 1,
+      "SL": 1
+    },
+    "CU|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 3,
+      "SI": 1,
+      "SL": 6,
+      "ST": 1
+    },
+    "CU|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "FF": 2,
+      "SI": 2,
+      "SL": 1,
+      "ST": 1
+    },
+    "CU|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "CU|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "SI": 1,
+      "ST": 1
+    },
+    "CU|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 1
+    },
+    "CU|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "FF": 2
+    },
+    "CU|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 5
+    },
+    "CU|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "FC": 2,
+      "FF": 5
+    },
+    "CU|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "SI": 1
+    },
+    "CU|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "CU|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "CU|balls=3|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "SI": 1
+    },
+    "CU|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 1,
+      "FF": 10,
+      "SI": 2
+    },
+    "CU|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "FC": 4,
+      "FF": 10
+    },
+    "CU|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "FF": 3
+    },
+    "CU|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 2
+    },
+    "CU|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 3
+    },
+    "CU|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FF": 1
+    },
+    "CU|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FF": 1
+    },
+    "CU|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 2,
+      "FF": 2,
+      "SI": 1
+    },
+    "CU|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1
+    },
+    "CU|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "FC|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 5,
+      "FF": 9,
+      "SI": 1
+    },
+    "FC|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 13,
+      "CU": 7,
+      "FC": 2,
+      "FF": 7,
+      "SI": 1
+    },
+    "FC|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 10,
+      "CU": 9,
+      "FC": 2,
+      "FF": 13,
+      "SI": 2
+    },
+    "FC|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 4,
+      "FF": 3
+    },
+    "FC|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 3,
+      "CU": 5,
+      "FC": 2,
+      "FF": 2,
+      "SI": 1
+    },
+    "FC|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 1,
+      "FF": 1
+    },
+    "FC|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 4,
+      "FF": 8,
+      "SI": 9,
+      "SL": 1,
+      "ST": 26
+    },
+    "FC|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 3,
+      "FC": 7,
+      "FF": 5,
+      "SI": 12,
+      "SL": 2,
+      "ST": 23
+    },
+    "FC|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "FC": 3,
+      "FF": 6,
+      "SI": 3,
+      "SL": 1,
+      "ST": 12
+    },
+    "FC|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 1,
+      "SL": 1,
+      "ST": 4
+    },
+    "FC|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "SI": 1,
+      "SL": 1,
+      "ST": 4
+    },
+    "FC|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SI": 1,
+      "ST": 1
+    },
+    "FC|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 3,
+      "FF": 3,
+      "ST": 1
+    },
+    "FC|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 7,
+      "FF": 10,
+      "ST": 2
+    },
+    "FC|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 2,
+      "FF": 4,
+      "SI": 1
+    },
+    "FC|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 2
+    },
+    "FC|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1
+    },
+    "FC|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 2,
+      "ST": 10
+    },
+    "FC|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 2,
+      "SL": 1,
+      "ST": 2
+    },
+    "FC|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 6,
+      "ST": 4
+    },
+    "FC|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "ST": 1
+    },
+    "FC|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "FC|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 2,
+      "ST": 1
+    },
+    "FC|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 2,
+      "FC": 4,
+      "FF": 9,
+      "SI": 1
+    },
+    "FC|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 7,
+      "CU": 2,
+      "FC": 7,
+      "FF": 9,
+      "SI": 1
+    },
+    "FC|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "CU": 4,
+      "FC": 4,
+      "FF": 6
+    },
+    "FC|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 1
+    },
+    "FC|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 2,
+      "FF": 3,
+      "SL": 1,
+      "ST": 1
+    },
+    "FC|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FF": 3,
+      "SI": 1
+    },
+    "FC|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 7,
+      "FF": 5,
+      "SI": 2,
+      "SL": 1
+    },
+    "FC|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 8,
+      "FF": 4,
+      "SI": 9,
+      "SL": 5,
+      "ST": 3
+    },
+    "FC|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 6,
+      "FF": 1,
+      "SI": 3,
+      "SL": 1,
+      "ST": 2
+    },
+    "FC|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "ST": 1
+    },
+    "FC|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 2,
+      "FF": 2,
+      "SI": 2,
+      "SL": 1
+    },
+    "FC|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 2,
+      "SI": 2,
+      "SL": 1
+    },
+    "FC|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 11,
+      "CU": 7,
+      "FC": 4,
+      "FF": 14,
+      "SI": 1
+    },
+    "FC|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 9,
+      "CU": 5,
+      "FC": 3,
+      "FF": 7
+    },
+    "FC|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 5,
+      "CU": 7,
+      "FC": 4,
+      "FF": 5,
+      "SI": 1
+    },
+    "FC|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1
+    },
+    "FC|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 2
+    },
+    "FC|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "FC|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 18,
+      "FF": 7,
+      "SI": 10,
+      "SL": 4,
+      "ST": 8
+    },
+    "FC|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 5,
+      "FF": 9,
+      "SI": 14,
+      "ST": 10
+    },
+    "FC|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 6,
+      "FF": 1,
+      "SI": 4,
+      "SL": 2,
+      "ST": 5
+    },
+    "FC|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "SL": 1,
+      "ST": 2
+    },
+    "FC|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "SI": 1,
+      "SL": 2,
+      "ST": 1
+    },
+    "FC|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SI": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "FC|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 8,
+      "FC": 3,
+      "FF": 8,
+      "SI": 2
+    },
+    "FC|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "CU": 5,
+      "FC": 2,
+      "FF": 7,
+      "SI": 1
+    },
+    "FC|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 6,
+      "FF": 7
+    },
+    "FC|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "FC|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 2
+    },
+    "FC|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1
+    },
+    "FC|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=4": {
+      "CU": 1
+    },
+    "FC|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 6,
+      "SI": 1,
+      "ST": 15
+    },
+    "FC|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 4,
+      "FC": 1,
+      "FF": 2,
+      "ST": 12
+    },
+    "FC|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 3,
+      "FF": 1,
+      "SL": 2,
+      "ST": 1
+    },
+    "FC|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "FC|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "FC|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 11
+    },
+    "FC|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "CU": 2,
+      "FC": 2,
+      "FF": 3,
+      "SI": 2
+    },
+    "FC|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 6
+    },
+    "FC|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "SI": 1,
+      "ST": 1
+    },
+    "FC|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 1
+    },
+    "FC|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "FC": 1
+    },
+    "FC|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "FC|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 3,
+      "SI": 3
+    },
+    "FC|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 3
+    },
+    "FC|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "SI": 1
+    },
+    "FC|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "SI": 1,
+      "SL": 1
+    },
+    "FC|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SI": 1
+    },
+    "FC|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 4,
+      "FC": 1,
+      "FF": 13,
+      "SI": 1
+    },
+    "FC|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 6,
+      "FC": 3,
+      "FF": 5,
+      "SI": 1
+    },
+    "FC|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "FC": 4,
+      "FF": 6
+    },
+    "FC|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1
+    },
+    "FC|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 2,
+      "FF": 2
+    },
+    "FC|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FF": 2
+    },
+    "FC|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 4,
+      "FF": 2,
+      "SI": 6,
+      "SL": 1,
+      "ST": 2
+    },
+    "FC|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 8,
+      "FF": 1,
+      "SI": 5,
+      "ST": 3
+    },
+    "FC|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 5,
+      "SL": 1,
+      "ST": 1
+    },
+    "FC|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 1,
+      "SL": 2
+    },
+    "FC|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1
+    },
+    "FC|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "ST": 1
+    },
+    "FC|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 3,
+      "FC": 2,
+      "FF": 10
+    },
+    "FC|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 4,
+      "FC": 2,
+      "FF": 5,
+      "SI": 4,
+      "ST": 1
+    },
+    "FC|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 6,
+      "FF": 5
+    },
+    "FC|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 4
+    },
+    "FC|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FF": 2
+    },
+    "FC|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1
+    },
+    "FC|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 1,
+      "SL": 4,
+      "ST": 4
+    },
+    "FC|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 3,
+      "SI": 2,
+      "ST": 2
+    },
+    "FC|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 2,
+      "ST": 2
+    },
+    "FC|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "CU": 1,
+      "ST": 2
+    },
+    "FC|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 1
+    },
+    "FC|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "SL": 1,
+      "ST": 2
+    },
+    "FC|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 4
+    },
+    "FC|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 1
+    },
+    "FC|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "FF": 1
+    },
+    "FC|balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 2
+    },
+    "FC|balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 1
+    },
+    "FC|balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1
+    },
+    "FC|balls=3|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "FC|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1
+    },
+    "FC|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 3,
+      "SI": 1
+    },
+    "FC|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "FF": 3,
+      "SI": 1
+    },
+    "FC|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "FC|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "FC": 1
+    },
+    "FC|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 2,
+      "SI": 1
+    },
+    "FC|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 2,
+      "FF": 2,
+      "SI": 3
+    },
+    "FC|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1
+    },
+    "FC|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "FC": 7,
+      "FF": 5,
+      "ST": 1
+    },
+    "FC|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 2,
+      "FC": 2,
+      "FF": 11
+    },
+    "FC|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "CU": 1,
+      "FF": 3,
+      "SI": 1
+    },
+    "FC|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 2,
+      "FF": 1
+    },
+    "FC|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "FF": 2
+    },
+    "FC|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 3,
+      "SI": 2
+    },
+    "FC|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 4,
+      "FF": 3,
+      "SI": 4,
+      "SL": 2
+    },
+    "FC|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1,
+      "SI": 1
+    },
+    "FC|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 1,
+      "SL": 1
+    },
+    "FC|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 2,
+      "ST": 1
+    },
+    "FC|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "SI": 1
+    },
+    "FF|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 21,
+      "CU": 28,
+      "FC": 26,
+      "FF": 43,
+      "SI": 4,
+      "SL": 3,
+      "ST": 2
+    },
+    "FF|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 7,
+      "CU": 16,
+      "FC": 18,
+      "FF": 24,
+      "SI": 2
+    },
+    "FF|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 7,
+      "CU": 7,
+      "FC": 11,
+      "FF": 10
+    },
+    "FF|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=4": {
+      "SL": 1
+    },
+    "FF|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "CU": 8,
+      "FF": 2
+    },
+    "FF|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 3,
+      "CU": 3,
+      "FC": 1,
+      "FF": 3,
+      "SL": 1
+    },
+    "FF|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 2
+    },
+    "FF|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 39,
+      "FF": 19,
+      "SI": 18,
+      "SL": 15,
+      "ST": 22
+    },
+    "FF|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 6,
+      "FC": 11,
+      "FF": 8,
+      "SI": 2,
+      "SL": 7,
+      "ST": 14
+    },
+    "FF|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 3,
+      "FC": 7,
+      "FF": 4,
+      "SI": 3,
+      "SL": 3,
+      "ST": 3
+    },
+    "FF|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 2,
+      "SI": 1,
+      "SL": 1,
+      "ST": 2
+    },
+    "FF|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FC": 1,
+      "SI": 2,
+      "SL": 1,
+      "ST": 1
+    },
+    "FF|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 1,
+      "ST": 2
+    },
+    "FF|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 3,
+      "CU": 14,
+      "FC": 3,
+      "FF": 12,
+      "SL": 3,
+      "ST": 3
+    },
+    "FF|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 12,
+      "FC": 4,
+      "FF": 14
+    },
+    "FF|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 8,
+      "FF": 12,
+      "ST": 2
+    },
+    "FF|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 2,
+      "FF": 1
+    },
+    "FF|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 4,
+      "FC": 1,
+      "FF": 1
+    },
+    "FF|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "FF": 1
+    },
+    "FF|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 4,
+      "FF": 6,
+      "SL": 3,
+      "ST": 9
+    },
+    "FF|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 8,
+      "FC": 1,
+      "FF": 4,
+      "SL": 2,
+      "ST": 8
+    },
+    "FF|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 4,
+      "ST": 6
+    },
+    "FF|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "ST": 1
+    },
+    "FF|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "FF|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "ST": 2
+    },
+    "FF|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 9,
+      "CU": 9,
+      "FC": 23,
+      "FF": 45,
+      "SL": 1
+    },
+    "FF|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 7,
+      "CU": 7,
+      "FC": 12,
+      "FF": 12,
+      "SL": 3
+    },
+    "FF|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 7,
+      "CU": 8,
+      "FC": 14,
+      "FF": 6,
+      "SL": 1
+    },
+    "FF|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 1,
+      "FF": 5
+    },
+    "FF|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 1,
+      "FF": 1
+    },
+    "FF|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1,
+      "CU": 1,
+      "FF": 1
+    },
+    "FF|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=4": {
+      "SL": 1
+    },
+    "FF|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 10,
+      "FF": 13,
+      "SI": 9,
+      "SL": 4,
+      "ST": 1
+    },
+    "FF|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 7,
+      "FF": 2,
+      "SI": 2,
+      "SL": 3,
+      "ST": 1
+    },
+    "FF|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 6,
+      "SI": 3,
+      "SL": 2
+    },
+    "FF|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 2,
+      "SI": 1
+    },
+    "FF|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 8,
+      "CU": 20,
+      "FC": 22,
+      "FF": 18,
+      "SL": 4
+    },
+    "FF|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 11,
+      "CU": 12,
+      "FC": 13,
+      "FF": 13,
+      "ST": 1
+    },
+    "FF|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 4,
+      "CU": 5,
+      "FC": 6,
+      "FF": 2
+    },
+    "FF|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 3,
+      "CU": 4,
+      "FF": 3
+    },
+    "FF|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 2,
+      "FF": 3,
+      "SI": 1
+    },
+    "FF|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 1
+    },
+    "FF|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 3,
+      "FC": 9,
+      "FF": 7,
+      "SI": 8,
+      "SL": 5,
+      "ST": 3
+    },
+    "FF|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 8,
+      "FF": 3,
+      "SI": 6,
+      "SL": 4,
+      "ST": 1
+    },
+    "FF|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 5,
+      "FF": 3,
+      "SI": 3,
+      "SL": 1
+    },
+    "FF|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 2,
+      "FF": 1,
+      "SI": 1,
+      "ST": 2
+    },
+    "FF|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FF": 1
+    },
+    "FF|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 28,
+      "FC": 4,
+      "FF": 18,
+      "SL": 3,
+      "ST": 1
+    },
+    "FF|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 24,
+      "FC": 6,
+      "FF": 10,
+      "SI": 1,
+      "SL": 3,
+      "ST": 1
+    },
+    "FF|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 11,
+      "FC": 7,
+      "FF": 7
+    },
+    "FF|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 6,
+      "FF": 3
+    },
+    "FF|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 8,
+      "FC": 1,
+      "FF": 4,
+      "ST": 1
+    },
+    "FF|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 3,
+      "FC": 1,
+      "FF": 1
+    },
+    "FF|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 5,
+      "FC": 1,
+      "FF": 7,
+      "SI": 1,
+      "SL": 10,
+      "ST": 22
+    },
+    "FF|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 5,
+      "FC": 1,
+      "FF": 7,
+      "SL": 4,
+      "ST": 10
+    },
+    "FF|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 6,
+      "FC": 2,
+      "FF": 3,
+      "SI": 1,
+      "SL": 6,
+      "ST": 4
+    },
+    "FF|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "ST": 2
+    },
+    "FF|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FF": 4,
+      "SL": 1,
+      "ST": 2
+    },
+    "FF|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "SL": 2,
+      "ST": 1
+    },
+    "FF|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "FC": 9,
+      "FF": 9
+    },
+    "FF|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 6,
+      "FF": 5,
+      "SI": 1
+    },
+    "FF|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 5,
+      "FF": 4
+    },
+    "FF|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 3
+    },
+    "FF|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "FC": 1
+    },
+    "FF|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 1
+    },
+    "FF|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 2,
+      "SI": 1
+    },
+    "FF|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "SI": 1,
+      "SL": 1
+    },
+    "FF|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 2,
+      "SI": 1
+    },
+    "FF|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 7,
+      "CU": 11,
+      "FC": 10,
+      "FF": 15,
+      "SI": 1
+    },
+    "FF|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 5,
+      "CU": 5,
+      "FC": 8,
+      "FF": 9,
+      "SL": 3
+    },
+    "FF|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 5,
+      "FC": 3,
+      "FF": 6
+    },
+    "FF|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 3,
+      "SL": 1
+    },
+    "FF|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 3,
+      "FF": 1
+    },
+    "FF|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 2,
+      "FC": 1
+    },
+    "FF|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 6,
+      "SI": 4,
+      "SL": 1
+    },
+    "FF|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 3,
+      "FF": 1,
+      "SI": 3
+    },
+    "FF|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1,
+      "SI": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "FF|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "SL": 1
+    },
+    "FF|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "FF|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "SI": 1
+    },
+    "FF|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 8,
+      "CU": 26,
+      "FC": 10,
+      "FF": 21,
+      "SI": 1,
+      "ST": 2
+    },
+    "FF|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 4,
+      "CU": 17,
+      "FC": 5,
+      "FF": 9,
+      "SI": 1,
+      "SL": 1,
+      "ST": 2
+    },
+    "FF|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 3,
+      "CU": 7,
+      "FC": 4,
+      "FF": 4,
+      "SL": 1
+    },
+    "FF|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "CU": 2,
+      "FC": 1,
+      "FF": 1
+    },
+    "FF|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "CU": 6,
+      "FC": 1,
+      "FF": 2
+    },
+    "FF|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 1
+    },
+    "FF|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 4,
+      "FC": 4,
+      "FF": 5,
+      "SI": 2,
+      "SL": 8,
+      "ST": 10
+    },
+    "FF|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "CU": 5,
+      "FC": 4,
+      "FF": 4,
+      "SI": 2,
+      "SL": 4,
+      "ST": 4
+    },
+    "FF|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FF": 3,
+      "SI": 2,
+      "SL": 4,
+      "ST": 3
+    },
+    "FF|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "SL": 1,
+      "ST": 2
+    },
+    "FF|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 2,
+      "FF": 2,
+      "SL": 1,
+      "ST": 1
+    },
+    "FF|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FF": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "FF|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 4
+    },
+    "FF|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 7
+    },
+    "FF|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "FC": 2,
+      "FF": 6
+    },
+    "FF|balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "FF|balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 2
+    },
+    "FF|balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FF": 1
+    },
+    "FF|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 7,
+      "FF": 14,
+      "SI": 1
+    },
+    "FF|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "FC": 7,
+      "FF": 6
+    },
+    "FF|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "FC": 2,
+      "FF": 12
+    },
+    "FF|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 3
+    },
+    "FF|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 2
+    },
+    "FF|balls=3|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FC": 1
+    },
+    "FF|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "SI": 2
+    },
+    "FF|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 1,
+      "SI": 1
+    },
+    "FF|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 3,
+      "FF": 1
+    },
+    "FF|balls=3|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1
+    },
+    "FF|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 3,
+      "CU": 3,
+      "FC": 8,
+      "FF": 20,
+      "SI": 1
+    },
+    "FF|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "CU": 6,
+      "FC": 6,
+      "FF": 12,
+      "SI": 1,
+      "SL": 1
+    },
+    "FF|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "CU": 3,
+      "FC": 4,
+      "FF": 9
+    },
+    "FF|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 2,
+      "SL": 1
+    },
+    "FF|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 11
+    },
+    "FF|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=3": {
+      "FC": 1
+    },
+    "FF|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 4,
+      "FF": 8,
+      "SI": 4,
+      "SL": 1
+    },
+    "FF|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 4,
+      "FF": 3,
+      "SI": 4,
+      "SL": 2
+    },
+    "FF|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 2
+    },
+    "FF|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "SI": 1
+    },
+    "FF|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "FF|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "FF": 2
+    },
+    "SI|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 1,
+      "FC": 1,
+      "FF": 2,
+      "SI": 1
+    },
+    "SI|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "FC": 1
+    },
+    "SI|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FF": 2
+    },
+    "SI|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 6,
+      "FF": 2,
+      "SI": 10,
+      "SL": 2,
+      "ST": 7
+    },
+    "SI|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 7,
+      "FF": 4,
+      "SI": 5,
+      "SL": 4,
+      "ST": 15
+    },
+    "SI|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 3,
+      "FC": 7,
+      "FF": 2,
+      "SI": 2,
+      "ST": 9
+    },
+    "SI|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 3,
+      "SI": 2
+    },
+    "SI|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 1,
+      "SI": 2,
+      "SL": 1,
+      "ST": 4
+    },
+    "SI|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "SI|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1
+    },
+    "SI|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1
+    },
+    "SI|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1
+    },
+    "SI|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 4,
+      "FF": 5,
+      "SL": 2,
+      "ST": 3
+    },
+    "SI|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 3,
+      "SL": 2,
+      "ST": 5
+    },
+    "SI|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 2,
+      "SL": 1,
+      "ST": 1
+    },
+    "SI|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "SL": 1
+    },
+    "SI|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "SI|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1
+    },
+    "SI|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 1
+    },
+    "SI|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "FC": 2,
+      "FF": 1
+    },
+    "SI|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "FC": 1
+    },
+    "SI|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 4,
+      "FF": 6,
+      "SI": 8,
+      "SL": 3,
+      "ST": 2
+    },
+    "SI|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 10,
+      "FF": 5,
+      "SI": 7,
+      "SL": 5,
+      "ST": 1
+    },
+    "SI|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 3,
+      "FF": 1,
+      "SI": 5,
+      "SL": 1,
+      "ST": 3
+    },
+    "SI|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 1
+    },
+    "SI|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 2,
+      "SI": 2,
+      "SL": 1,
+      "ST": 1
+    },
+    "SI|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "SI": 3
+    },
+    "SI|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 5,
+      "FF": 2
+    },
+    "SI|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "FC": 3
+    },
+    "SI|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 1
+    },
+    "SI|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=3": {
+      "FC": 1
+    },
+    "SI|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 3,
+      "FC": 4,
+      "FF": 6,
+      "SI": 7,
+      "SL": 4,
+      "ST": 6
+    },
+    "SI|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 5,
+      "FF": 1,
+      "SI": 3,
+      "SL": 1,
+      "ST": 6
+    },
+    "SI|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 6,
+      "SL": 3,
+      "ST": 2
+    },
+    "SI|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 2,
+      "SI": 1
+    },
+    "SI|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 3,
+      "SL": 1,
+      "ST": 2
+    },
+    "SI|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "SI": 1,
+      "ST": 1
+    },
+    "SI|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FF": 1,
+      "ST": 1
+    },
+    "SI|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 3,
+      "FF": 1
+    },
+    "SI|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 1
+    },
+    "SI|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "ST": 1
+    },
+    "SI|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FF": 4,
+      "SL": 3,
+      "ST": 6
+    },
+    "SI|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 3,
+      "FC": 1,
+      "FF": 4,
+      "SL": 1,
+      "ST": 4
+    },
+    "SI|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "SL": 2,
+      "ST": 1
+    },
+    "SI|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "ST": 2
+    },
+    "SI|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "CU": 2,
+      "ST": 1
+    },
+    "SI|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "ST": 2
+    },
+    "SI|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "SI|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 2,
+      "SI": 1,
+      "SL": 1
+    },
+    "SI|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 4,
+      "FF": 4,
+      "SI": 2
+    },
+    "SI|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 4,
+      "SI": 2
+    },
+    "SI|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "SI": 2
+    },
+    "SI|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 2,
+      "SI": 2
+    },
+    "SI|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "SI": 1
+    },
+    "SI|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 1
+    },
+    "SI|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1
+    },
+    "SI|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "SI|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1
+    },
+    "SI|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 4,
+      "FF": 3,
+      "SI": 2,
+      "SL": 7,
+      "ST": 3
+    },
+    "SI|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 6,
+      "FF": 1,
+      "SI": 6,
+      "SL": 5,
+      "ST": 1
+    },
+    "SI|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 2,
+      "FF": 2,
+      "SI": 3,
+      "SL": 1
+    },
+    "SI|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 2,
+      "SL": 2,
+      "ST": 2
+    },
+    "SI|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "SI": 3
+    },
+    "SI|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 1,
+      "FC": 1
+    },
+    "SI|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 1
+    },
+    "SI|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "FC": 2,
+      "SI": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "SI|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "SI|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 1,
+      "FC": 3,
+      "FF": 4,
+      "SI": 2,
+      "SL": 3,
+      "ST": 4
+    },
+    "SI|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 2,
+      "FC": 3,
+      "FF": 5,
+      "SI": 3,
+      "ST": 7
+    },
+    "SI|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 2,
+      "SL": 2,
+      "ST": 2
+    },
+    "SI|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 2
+    },
+    "SI|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 1,
+      "SL": 2
+    },
+    "SI|balls=3|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 2
+    },
+    "SI|balls=3|strikes=0|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "SI|balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 1
+    },
+    "SI|balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "SI": 1
+    },
+    "SI|balls=3|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 2
+    },
+    "SI|balls=3|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1
+    },
+    "SI|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 3,
+      "SI": 1,
+      "SL": 1
+    },
+    "SI|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 4,
+      "FF": 3
+    },
+    "SI|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1,
+      "SI": 2
+    },
+    "SI|balls=3|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 2,
+      "SI": 2
+    },
+    "SI|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 1
+    },
+    "SI|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 3
+    },
+    "SI|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "FC": 2
+    },
+    "SI|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 1,
+      "FF": 2,
+      "SI": 2,
+      "ST": 1
+    },
+    "SI|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 6,
+      "FF": 3,
+      "SI": 2
+    },
+    "SI|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FF": 1,
+      "SI": 1
+    },
+    "SI|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "SI|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 2
+    },
+    "SI|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "SI": 1
+    },
+    "SL|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 1,
+      "FF": 7
+    },
+    "SL|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "CU": 1,
+      "FC": 1,
+      "FF": 5,
+      "SL": 1
+    },
+    "SL|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 2,
+      "FC": 1,
+      "FF": 4
+    },
+    "SL|balls=0|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "CH": 1,
+      "FF": 1
+    },
+    "SL|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 2,
+      "SI": 7,
+      "SL": 4
+    },
+    "SL|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 5,
+      "FC": 1,
+      "FF": 2,
+      "SI": 2,
+      "SL": 7
+    },
+    "SL|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "CH": 1,
+      "FF": 2,
+      "SL": 2
+    },
+    "SL|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "SL|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "SI": 1
+    },
+    "SL|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SL": 1,
+      "ST": 1
+    },
+    "SL|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 1
+    },
+    "SL|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 1,
+      "SL": 1
+    },
+    "SL|balls=0|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1,
+      "FF": 1
+    },
+    "SL|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 5,
+      "SL": 1
+    },
+    "SL|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 5,
+      "SL": 4
+    },
+    "SL|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 3,
+      "SL": 1
+    },
+    "SL|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "SL": 1
+    },
+    "SL|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 2
+    },
+    "SL|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "CU": 2
+    },
+    "SL|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 2
+    },
+    "SL|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 1,
+      "FF": 2,
+      "SL": 1
+    },
+    "SL|balls=1|strikes=0|stand=L|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "FF": 2
+    },
+    "SL|balls=1|strikes=0|stand=L|p_throws=R|r2=1|times=3": {
+      "CH": 1
+    },
+    "SL|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 6,
+      "SI": 2,
+      "SL": 7
+    },
+    "SL|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FF": 3,
+      "SI": 2
+    },
+    "SL|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 3,
+      "SL": 2
+    },
+    "SL|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 1,
+      "SL": 1
+    },
+    "SL|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 2,
+      "FF": 1,
+      "SL": 1
+    },
+    "SL|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1
+    },
+    "SL|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "FF": 1
+    },
+    "SL|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "CH": 2,
+      "FF": 2
+    },
+    "SL|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1
+    },
+    "SL|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=4": {
+      "FC": 1
+    },
+    "SL|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 3,
+      "SI": 5,
+      "SL": 8
+    },
+    "SL|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 2,
+      "FC": 1,
+      "FF": 4,
+      "SI": 5,
+      "SL": 3
+    },
+    "SL|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 2,
+      "SI": 3,
+      "SL": 1
+    },
+    "SL|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "SL|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 3
+    },
+    "SL|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "SL|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 1,
+      "FF": 5
+    },
+    "SL|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1
+    },
+    "SL|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "SL|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 6,
+      "FF": 7,
+      "SL": 8
+    },
+    "SL|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 3,
+      "SI": 2,
+      "SL": 3
+    },
+    "SL|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 3,
+      "SL": 2
+    },
+    "SL|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "SL|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "SL": 1
+    },
+    "SL|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SL": 1
+    },
+    "SL|balls=2|strikes=0|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 1
+    },
+    "SL|balls=2|strikes=0|stand=L|p_throws=R|r2=1|times=2": {
+      "CU": 1
+    },
+    "SL|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 3,
+      "SI": 1,
+      "SL": 1
+    },
+    "SL|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 2,
+      "SI": 1
+    },
+    "SL|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "SL": 1
+    },
+    "SL|balls=2|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1
+    },
+    "SL|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "SI": 3,
+      "SL": 2
+    },
+    "SL|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FF": 2,
+      "SI": 1,
+      "SL": 1
+    },
+    "SL|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 2
+    },
+    "SL|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "SI": 2
+    },
+    "SL|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 2,
+      "FF": 1
+    },
+    "SL|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=1": {
+      "CU": 2
+    },
+    "SL|balls=2|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "FC": 1
+    },
+    "SL|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "CU": 2,
+      "FC": 2,
+      "FF": 10,
+      "SI": 6,
+      "SL": 2
+    },
+    "SL|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 5,
+      "SI": 1,
+      "SL": 2
+    },
+    "SL|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 2,
+      "FF": 4,
+      "SI": 1,
+      "SL": 2
+    },
+    "SL|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "CU": 1,
+      "FF": 2,
+      "SI": 1
+    },
+    "SL|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "SI": 2
+    },
+    "SL|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "SL": 1
+    },
+    "SL|balls=3|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 1,
+      "SI": 1
+    },
+    "SL|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "SI": 3
+    },
+    "SL|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FF": 1
+    },
+    "SL|balls=3|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "SL|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "FF": 1
+    },
+    "SL|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 2
+    },
+    "SL|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CH": 1
+    },
+    "SL|balls=3|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "CH": 1
+    },
+    "SL|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 1,
+      "SI": 1,
+      "SL": 1
+    },
+    "SL|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "FF": 1,
+      "SL": 1
+    },
+    "SL|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 2,
+      "SL": 1
+    },
+    "SL|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "SL": 1
+    },
+    "ST|balls=0|strikes=1|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 1
+    },
+    "ST|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 1,
+      "ST": 10
+    },
+    "ST|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 2,
+      "FF": 5,
+      "SI": 3,
+      "ST": 14
+    },
+    "ST|balls=0|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 3,
+      "FF": 2,
+      "SI": 2,
+      "ST": 6
+    },
+    "ST|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "ST|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "SI": 1,
+      "SL": 1,
+      "ST": 4
+    },
+    "ST|balls=0|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "ST": 3
+    },
+    "ST|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CU": 2
+    },
+    "ST|balls=0|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "CU": 1
+    },
+    "ST|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 2,
+      "FF": 13,
+      "ST": 19
+    },
+    "ST|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 3,
+      "FF": 11,
+      "SI": 2,
+      "ST": 16
+    },
+    "ST|balls=0|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 1,
+      "FF": 5,
+      "SI": 1,
+      "ST": 12
+    },
+    "ST|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 1,
+      "ST": 4
+    },
+    "ST|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 3,
+      "SI": 1,
+      "ST": 3
+    },
+    "ST|balls=0|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 2,
+      "ST": 1
+    },
+    "ST|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 3,
+      "FF": 1,
+      "SI": 2
+    },
+    "ST|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 4,
+      "FF": 2,
+      "SI": 3,
+      "ST": 1
+    },
+    "ST|balls=1|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 2,
+      "SI": 3,
+      "ST": 1
+    },
+    "ST|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 2,
+      "SI": 2,
+      "ST": 2
+    },
+    "ST|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "SI": 3,
+      "ST": 2
+    },
+    "ST|balls=1|strikes=0|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "SI": 1
+    },
+    "ST|balls=1|strikes=1|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 1
+    },
+    "ST|balls=1|strikes=1|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "ST|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 9,
+      "FF": 3,
+      "SI": 7,
+      "ST": 9
+    },
+    "ST|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 9,
+      "FF": 2,
+      "SI": 7,
+      "ST": 5
+    },
+    "ST|balls=1|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "SI": 1,
+      "ST": 7
+    },
+    "ST|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "SI": 1,
+      "ST": 1
+    },
+    "ST|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "SI": 2,
+      "ST": 3
+    },
+    "ST|balls=1|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 1,
+      "SI": 3
+    },
+    "ST|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 1
+    },
+    "ST|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FF": 1
+    },
+    "ST|balls=1|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "FF": 1
+    },
+    "ST|balls=1|strikes=2|stand=L|p_throws=R|r2=1|times=2": {
+      "FF": 1
+    },
+    "ST|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "CU": 2,
+      "FC": 2,
+      "FF": 18,
+      "SI": 5,
+      "ST": 15
+    },
+    "ST|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 3,
+      "FC": 1,
+      "FF": 10,
+      "SI": 3,
+      "ST": 15
+    },
+    "ST|balls=1|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 1,
+      "FC": 3,
+      "FF": 5,
+      "SI": 1,
+      "ST": 7
+    },
+    "ST|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FF": 3,
+      "SI": 1,
+      "ST": 6
+    },
+    "ST|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FF": 1,
+      "ST": 4
+    },
+    "ST|balls=1|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 2,
+      "ST": 3
+    },
+    "ST|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 1,
+      "SI": 1
+    },
+    "ST|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=2": {
+      "SI": 1
+    },
+    "ST|balls=2|strikes=0|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 2,
+      "SI": 1
+    },
+    "ST|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "ST|balls=2|strikes=0|stand=R|p_throws=R|r2=1|times=2": {
+      "SI": 1
+    },
+    "ST|balls=2|strikes=1|stand=L|p_throws=R|r2=1|times=1": {
+      "FF": 1
+    },
+    "ST|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 1,
+      "SI": 5
+    },
+    "ST|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 3
+    },
+    "ST|balls=2|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "SI": 1,
+      "ST": 1
+    },
+    "ST|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1
+    },
+    "ST|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=2": {
+      "SI": 1
+    },
+    "ST|balls=2|strikes=1|stand=R|p_throws=R|r2=1|times=3": {
+      "FC": 1,
+      "ST": 1
+    },
+    "ST|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "CH": 1,
+      "FC": 1,
+      "FF": 1
+    },
+    "ST|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "FF": 2
+    },
+    "ST|balls=2|strikes=2|stand=L|p_throws=R|r2=0|times=3": {
+      "SI": 1
+    },
+    "ST|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 7,
+      "FF": 11,
+      "SI": 6,
+      "SL": 1,
+      "ST": 5
+    },
+    "ST|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "CU": 1,
+      "FC": 2,
+      "FF": 5,
+      "SI": 9,
+      "ST": 5
+    },
+    "ST|balls=2|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "CU": 2,
+      "FC": 1,
+      "ST": 6
+    },
+    "ST|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "FC": 1,
+      "FF": 1,
+      "SI": 2,
+      "ST": 1
+    },
+    "ST|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "SI": 2,
+      "ST": 2
+    },
+    "ST|balls=2|strikes=2|stand=R|p_throws=R|r2=1|times=3": {
+      "FF": 2,
+      "ST": 1
+    },
+    "ST|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=1": {
+      "FF": 1
+    },
+    "ST|balls=3|strikes=1|stand=R|p_throws=R|r2=0|times=3": {
+      "FF": 1
+    },
+    "ST|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=1": {
+      "FC": 1
+    },
+    "ST|balls=3|strikes=2|stand=L|p_throws=R|r2=0|times=2": {
+      "SI": 1
+    },
+    "ST|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=1": {
+      "FC": 2,
+      "FF": 3,
+      "SI": 1
+    },
+    "ST|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=2": {
+      "FC": 3,
+      "SI": 3
+    },
+    "ST|balls=3|strikes=2|stand=R|p_throws=R|r2=0|times=3": {
+      "FC": 1,
+      "SI": 1
+    },
+    "ST|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=1": {
+      "SI": 1
+    },
+    "ST|balls=3|strikes=2|stand=R|p_throws=R|r2=1|times=2": {
+      "FC": 1,
+      "FF": 1
+    }
+  },
+  "transition_counts": {
+    "CH": {
+      "CH": 41,
+      "CU": 40,
+      "FC": 49,
+      "FF": 133,
+      "SI": 4,
+      "SL": 9,
+      "ST": 2
+    },
+    "CU": {
+      "CH": 50,
+      "CU": 168,
+      "FC": 129,
+      "FF": 380,
+      "SI": 56,
+      "SL": 37,
+      "ST": 16
+    },
+    "FC": {
+      "CH": 92,
+      "CU": 155,
+      "FC": 179,
+      "FF": 347,
+      "SI": 143,
+      "SL": 45,
+      "ST": 178
+    },
+    "FF": {
+      "CH": 153,
+      "CU": 411,
+      "FC": 445,
+      "FF": 618,
+      "SI": 109,
+      "SL": 135,
+      "ST": 156
+    },
+    "SI": {
+      "CH": 8,
+      "CU": 47,
+      "FC": 133,
+      "FF": 120,
+      "SI": 109,
+      "SL": 66,
+      "ST": 109
+    },
+    "SL": {
+      "CH": 20,
+      "CU": 33,
+      "FC": 27,
+      "FF": 137,
+      "SI": 60,
+      "SL": 81,
+      "ST": 1
+    },
+    "ST": {
+      "CH": 1,
+      "CU": 17,
+      "FC": 81,
+      "FF": 132,
+      "SI": 96,
+      "SL": 2,
+      "ST": 195
+    }
+  }
+}
